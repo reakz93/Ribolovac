@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:tools="http://schemas.android.com/tools"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="16dp"
+                  android:layout_marginRight="16dp">
+
+
+        <TextView
+            android:text="@string/vezovi_1_palomar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView24"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textStyle="normal|bold"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/palomer_1"
+            android:id="@+id/imageView6"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_1_palomar_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView27"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/palomer_2"
+            android:id="@+id/imageView9"
+            android:adjustViewBounds="true"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/palomer_3"
+            android:id="@+id/imageView13"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_1_palomar_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView28"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/palomer_4"
+            android:id="@+id/imageView10"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_1_palomar_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView29"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/palomer_5"
+            android:id="@+id/imageView11"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_1_palomar_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView30"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

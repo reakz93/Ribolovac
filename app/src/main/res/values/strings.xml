@@ -1,0 +1,1388 @@
+<resources>
+    <string name="app_name">Ribolovac</string>
+    <string name="riba_naziv_hint">Unesi naziv ribe</string>
+
+
+    <string name="riba_amur">Pripada redu Cyprinoformes, podredu Leuciscinae. Ime je dobio po azijskoj rijeci Amur koja je dobrim dijelom granična voda između bivšeg SSSR-a i Kine. Amur živi u gornjem i srednjem toku te velike rijeke. U Kini živi u Žutoj i Crvenoj rijeci. Te su vode u svojim gornjim tokovima brze i naglo teku da bi se niže, nizvodno, razlile i poplavile velika područja.\nAmurova ženka pušta ikru u brzim tokovima, a voda je nosi površinom nizvodno do razlivenih područja gdje je temperatura vode viša od 20°C što je nužno za izvaljivanje ikre i daljnji razvoj amurova mlađa. Ona pušta 30 000 do 800 000 komada ikre koja se, oplođena, spušta površinom rijeke.\n\nAmur je lijepa i pravilno građena riba. Ima dosta široko čelo i lijepe velike ljuske. Leđa su mu zelenkasta, bokovi tamniji, a trbuh svjetliji. Leđna i repna peraja su tamnije, a ostale svjetlije. Može narasti preko metra dužine i tridesetak kilograma težine. Kod nas je spolno zreo u četvrtoj godini pri težini od preko 3 kilograma. Manji mlađ se hrani planktonom, larvama i račićima. Kad poraste, prelazi na biljnu hranu. Brzo raste. Šeste godine može doseći težinu do 5 kilograma.\n\nAmur je prenesen u europski dio bivšeg SSSR-a i dalje u Rumunjsku, Bugarsku i Mađarsku. Prije četrdesetak godina mlađ amura je prenesen iz Mađarske u neka ribnjačarstva bivše Jugoslavije gdje je počeo njegov uzgoj uz šarana. Hrani se vodenim biljem: trskom, mrijesnjakom, vodenom lećom, žabokrečinom, vodenom kugom, rogozom, a jede travu i djetelinu. Pravi je biljožder koji brzo raste.Amur pojede dnevno mnogo vodenog bilja, gotovo toliko koliko je težak. Često ga upotrebljavaju u ribnjacima i za "čišćenje" obraslih vodenih površina. Meso mu je izvrsno. Ipak, postoji problem mriješćenja u našim klimatskim uvjetima. Umjetnim mriješćenjem postižu se rezultati. Vrijeme njegova prirodnog mrijesta pada u doba kada naše rijeke nemaju potrebnu toplinu za njegov mrijest. No čini se da se u zadnje vrijeme prilagodio našim vremenskim uvjetima i temperaturama vode, te se mrijesti. Amur je otporan na neke šaranske bolesti, premda je iz istog roda. \n\nPrema svom vanjskom izgledu najsličniji je našem klenu, premda se odmah može uočiti razlika jer ima znatno manju glavu. U bivšem SSSR-u amur je postao već odavno i riba sportskih ribolovaca pa su ga tamo nasadili i u neke otvorene vode. A i kod nas je već uobičajeno da je amur postao stanovnik zatvorenih voda. Obično su to društveni ribnjaci, bogati vodenim biljem. \n\nSportski ribolovci love ga na komadiće trske, a love ga kao i šarana na kukuruz, žgance, te modernijim i sofisticiranijim metodama kao što su lov "boilom". On je borbena riba i, kad osjeti da je uhvaćen, bori se žestoko. I kao što smo iz dosad iznesenog vidjeli amur je odlična privredna i sportska riba koja je sve više zastupljena u našim vodama.</string>
+    <string name="riba_babuska">Babuška potječe iz Sibira, a ima je u Kini i Japanu, odakle se proširila sve do europskih voda, pa i do naših krajeva. Ima je mnogo u rijeci Dravi, odakle je došla u Dunav i Savu. Ima je dosta u Bosutu i pritocima, a javlja se i Kupi. Došla je i s mlađem amura i tolstolobika uvezenim iz Mađarske u neke naše ribnjake pa je iz njih prešla i u otvorene vode. U ribnjacima je postala prava napast jer jede hranu namijenjenu šaranima. Za sportske ribolovce babuška je zanimljiva riba koja pod povoljnim uvjetima naraste više od kilograma težine. U vodama koje se sve više zagađuju i masovno izlovljavaju, babuška je dobrodošla za rekreaciju i zabavu. \n\nBabuška je nešto vitkija od našeg karasa i srebrnaste je boje. Nema brčiće kao šaran i nije velika; obično je dugačka dvadesetak centimetara. Živi u vodama stajačicama, rjeđe u tekućim vodama, ako je dno glibovito a voda toplija. Nešto je manje otporna od karasa. Za tri-četiri godine babuška naraste do dvadesetak centimetara, ženka je tada spolno zrela, a odlaže i do 400000 komada ikre. Budući da ikru ne mora oploditi mužjak babuške, već mužjaci bilo kojih bijelih riba, babuške se brzo šire. Te druge vrste ne oplođuju ikru direktno jer bi u tom slučaju nastali mješanci. Međutim, oni pokreću u jajašcu daljnji razvoj i iz njega će se, iako je neoplođeno, izleći babuška i to uvijek ponovo ženka. Zbog toga babuška ima izuzetne mogućnosti masovnog širenja svoje vrste, što kod drugih ribljih vrsta u našim vodama nije slučaj. Babuška je podložna nekim bolestima i manje je otporna od šarana i karasa. \n\nLovi se kao i karas, udicom. Rado prihvaća glistu, crve ili tijesto. Pribor za ribolov treba biti osjetljiv, a mamac malen. Meso joj je dobro za jelo i nalik je šaranovom. Hrani se crvima i ličinkama iz mulja.</string>
+    <string name="riba_cvergl">Kao i pravi som nema ljusaka, na leđnoj peraji i na prsnim perajama ima šiljaste bodlje, kojih je ubod bolan i peče. Glava mu je široka i velika. Oko usta ima 8 brčića. Gornji mu je dio tamnomaslinast do ružičastosmeđ, a donji bijeloprljav. Kod nas naraste do pola kilograma težine, ali obično su primjerci do 20 dkg. \n\nDonesen je iz Sjeverne Amerike i raširio se po našim vodama, a posebno u barama i stajaćicama. Za život mu ne treba mnogo kisika u vodi. Polagano raste i također je svežder pa prihvaća svaki živi mamac. \n\nJede ikru, mlađ, gliste i vodene životinjice. Lovi se na glistu i kederov repić, i to na dnu. On će naći glistu i u gustoj vodenoj travi u bari ili ribnjaku pomoću njuha i svojih opipnih brčića. Javlja se u proljeće čim zatopli i kreće se do kasne jeseni. Zahvalan je objekt za sportske ribolovce jer je vrlo proždrljiv i čvrsto hvata mamac. Obično grize podveče i ranom zorom. \n\nNajčešće ga love priborom na plovak ili se baci udica iz štapa za potezanje opterećena olovom na dno. Meso mu je vrlo dobro i ima gotovo samo kralješnicu bez sitnih koščica.</string>
+    <string name="riba_deverika">Tijelo joj je plosnato, s visokim hrptom. Sivkasta je, a prema trbuhu srebrnasta. Peraje su joj sive, a glava malena. Ima dulju i jaku podrepnu peraju i velike ljuske. Kod nas može narasti do 3 do čak 10 kilograma težine. Zadržava se u dubokim i mirnim mjestima u rijeci gdje ima vodenog bilja. Tu ruje tražeći hranu. \n\nHrani se kao i šaran - crvima, ličinkama i biljnim travama. Obično se kreće u jatima, a kod nas je ima u većim količinama u Savi, Dravi i Dunavu. \n\nMrijesti se u svibnju i lipnju, pa na plićim mjestima odlaže sitnu žućkastu ikru na vodeno bilje. Ikru odlaže obično tri do četiri dana za mirnog i tihog vremena. \n\nDeverika je plašljiva riba, pa se najbolje lovi zimskih mjeseci u mutnoj vodi. Lovi se na dnu, laganim priborom na plovak i manjom udicom, i to obično na glistu, krumpir, kruh ili tijesto. Meso joj ima dosta kostiju, ali je ukusno i tečno. Obično je naši ribiči po strani zarežu i jače peku tako da se sitnije koščice preprže.</string>
+    <string name="riba_krupatica">Krupatica ima plosnato, visoko tijelo kao i deverika, ali još manju glavu. Gubica joj je tupa. Podrepne peraje počinju iza završetka hrpta. Hrbat joj je smeđe-zelenkast, bokovi srebrnasti, modričastog sjaja. Neparne su joj peraje sivkastomodre, a prsne i trbušne crvenkaste. Srednja joj je duljina od 20 do 30 cm. \n\nJede kao i deverika biljnu hranu i sitne životinjice. Zadržava se u rijekama sa slabom vodenom strujom te na ilovastom i pjeskovitom dnu. Mrijesti se u svibnju i lipnju pa odlaže ikru na vodeno bilje. Oprezna je i plašljiva, a lovi se kao i deverika. Meso joj je znatno lošije kvalitete i puno sitnih kostiju.</string>
+    <string name="riba_jez">Ljuske su mu sitne, a trbuh bijel. Tijelo mu je dosta istegnuto a usta malena. Hrptene i repne peraje su sivomodre, a ostale crvenkaste. Živi u rijekama i jezerima sjeverne Europe, a kod nas u rijekama Dunavskog sliva. Voli bistru, hladnu i duboku vodu. Zimi se zadržava samo u najdubljim mjestima. Plašljiv je, ali okretan. Drži se i jačih struja uz pjeskovito ili šljunkovito dno. \n\nNaraste od 3 do 4 kilograma težine. Hrani se crvima, ličinkama i vodenim kukcima. Na početku svibnja sakuplja se u jata za mrijest i ide u plićake. \n\nLovi se pri dnu u proljeće i kasnu jesen na tanke crvene gliste ili tijesto ili na umjetnu mušicu (vodencvijet, aleksandra) te skakavcima. Zaletjet će se i na varalicu. On grabi naglo i odmah ga treba zategnuti, jer čim osjeti otpor pušta mamac. Kad osjeti da je uhvaćen, snažno se bori i bježi u jaču struju. Premda ima dosta sitnih kostiju, meso mu je dobro za jelo.</string>
+    <string name="riba_crvenperka">Vrlo je slična bodorki pa ju je teško razlikovati. Leđna joj je peraja na vrhu crvena a i ostale peraje, osim prsnih, koje su narančaste. Nešto je viša i plosnatija od bodorke. Razlikuje se od bodorke i po tome što su joj trbušne peraje smještene ispred leđne peraje, dok su kod bodorke trbušne peraje ispod leđne. \n\nMrijesti se i živi na područjima kao i bodorka. Također voli mirnije vode, obrasle biljem. Živi u jatima i drži se dna, gdje traži hranu. Naraste do kilograma težine. Obično se zadržava na istom staništu pa ne ide u veće dubine, jedino se zimi ondje nalazi. \n\nLovi se kao i bodorka na isti način i istim mamcem. Meso joj nije kvalitetno.</string>
+    <string name="riba_zutooka">Ima spljošteno tijelo, na hrptu zelenkasto, a bokovi su srebrnasti, perajice crvene ili žučkaste. Oči su joj žuto-crvene, po čemu je i dobila ime, glava malena, usta također mala. Živi po cijeloj Europi u jezerima i slatkim tekućim vodama, a kod nas se nalazi u vodama Dunavskog sliva. Naraste do jednog kilograma težine, a mrijesti se u travnju i svibnju polažući ikru na vodeno bilje. \n\nNajviše se hrani ljeti, a zimi gotovo i ne prima hranu. Drži se u jatima i pri dnu, gdje traži hranu: crve, ličinke i dr.. Brza je i okretna riba te dosta oprezna, premda je proždrljiva. Voli mirniju vodu, obraslu rslinjem i travom. Lovi se na lagani pribor i sitniju udicu na sitne crvene gliste, kuglicu kruha, kukca, crve i dr. Meso joj je puno sitnih koščica i bljutavo. Sportski je ribolovci koriste obično kada kuhaju riblju juhu gdje ubacuju raznu sitnu ribu. Kao mamac je dobra za grabežljivu ribu</string>
+    <string name="riba_podust">Podust je poznata riba, a zovu ga još i skobalj, škobalja, tintaš, jatnik, šljivar, rijaš, i štupser. Naraste od 25 do 50 cm, a može biti težak do kilogram i pol. Leđa su mu tamnozelena, bokovi i trbuh srebrnastobijeli, perajice crvenkaste, a one na hrptu sivkaste. Tijelo mu je izduženo i vitko, obloženo pravilnim redovima ljusaka. Prepoznat ćemo ga po ustima koja su smještena ispod izdužene njuške. Usne su mu rožnate i oštre jer njima struže biljnu hranu i alge s kamenja na dnu rijeke. Unutrašnja prevlaka trbušne stjenke presvučena mu je crnom opnom pa ga zato i zovu tintaš. Vrlo je osjetljiv i oprezan, te se kreće u jatima. Za niskih vodostaja i ljeti drži se uz vodenu struju, a kada se vode zamute i podignu, prilazi k obali u pliće zaljeve i pješčane limane te se kreće uz polje i plića napajalište. Drži se obično srednjih tokova i visinskih voda, posebno u području mladice, kojoj je i glavna hrana. \n\nOdlično se prilagođuje životu i u hladnijim vodama, a osjetljiv je na zagađenje vode pa se u takvom slučaju brzo povlači. Jata podusta imaju svoja migraciona kretanja zbog mrijesta ili bolje prehrane. Ta kretanja mogu biti uzvodno i nizvodno, pa čak i iz rijeke u rijeku. \n\nPodust dosta brzo raste, naročito u prve tri godine. Nakon šest godina podust je dug oko 50 cm i težak više od kilograma. Sa tri godine je zreo za rasplod. Mrijesti se od ožujka do svibnja, već prema temperaturama vode i vremenskim uvjetima. Putuje u jatima na prikladna šljunkovita i plića mjesta. Tada mu boje tijela postaju intenzivnije. Ženka odlaže do 100 000 komada ikre, promjera oko 1,5 mm, na protočnoj vodi, a ikra se lijepi na šljunak na dnu rijeke. Kod nas podust živi u vodama Dunavskog sliva, međutim, njegovo se područje u Europi proteže od sjevernog dijela Francuske i Nizozemske kroz srednji dio Njemačke do srednjeg dijela bivšeg SSSR-a, te do obale Kaspijskog i Crnog mora. U sjevernoj Španjolskoj i južnoj Francuskoj živi i jugozapadni europski podust (Chondrostoma polylepis), a u području sjeverne Italije podust (Chondrostoma soeta) koji može narasti do 45 cm u dužinu. \n\nPodust se lovi laganim ribičkim štapom ili teleskopom koji treba stalno držati u ruci jer je podust vrlo oprezna i plašljiva riba koja će izbaciti mamac iz usta čim joj se nešto učini sumnjivim. Zato najlon mora biti tanak, a udica mala. Umjesto čepa koristi se vrlo osjetljivo pero ili poseban plastični tanki plovak koji se dobro vidi i na kojem se može primijetiti i najmanji dodir ribe. Stavlja se malo olovo (samo ono najpotrebnije s obzirom na plovak) i predvez na desetak centimetara između olova i udice. Ribolovac treba reagirati i na najmanje micanje štapa. \n\nKao mamac najpouzdanija je kuglica kruha ili jednostavno malo zgnječen kruh kako ne bi odmah otpao s udice. Dobar mamac su i brašneni i mesni crvi, tanka crvena glista iz stajskog gnoja, te kuhani krumpir, žganci, ili komadići zgrušane krvi. \n\nMeso podusta je ukusno, ali ima mnogo sitnih kostiju. Obično se prži malo jače na ulju ili masti, ali bolje ga je marinirati jer se lakše jede, a ništa se ne gubi na okusu i kvaliteti.</string>
+    <string name="riba_karas">Vrlo visoka hrpta, a glava mu je mala. Usta su mu bez brčića. Tijelo mu je plosnato i široko. Sličan je šaranu, a boja mu žuta do tamnozlatnožuta. Zubi su mu u ždrijelnici, drukčiji nego u šarana. Naraste do kilogram i pol težine. Raširio se po Srednjoj Europi i Aziji, a drži se mirnijih voda i bara obično na dnu. Može živjeti u vodi s malo kisika, a prezimit će zimu i ukopati se u mulj ako je hladno. Kod nas živi u svim nizinskim vodama Dunavskog sliva. \n\nHrani se kao i šaran, skupljajući po mulju crve, ličinke i biljnu trulež. Ikru odlaže kao i šaran na vodeno bilje. Vrlo je žilav pa će živjeti i nekoliko sati ako ga izvadimo iz vode. Lovi se kao i šaran, samo lakšim i tanjim priborom. Meso mu je slično šaranovu i, premda živi na muljevitim mjestima, obično mu meso ne poprima miris mulja, kako se to obično dešava kod ribnjačkog šarana.</string>
+    <string name="riba_mrena">Leđa su joj tamnozelena, bokovi tamnozlatni, trbuh bjelkast. Tijelo je izduženo vretenasto, usta velika, mesnata, a na gornjoj usnici su po dva mala brčića. Glava joj je šiljasta, a oči malene. Na prednjem dijelu leđne peraje ima nazubljenu kost. Čvrsta je snažna riba koja pliva čelom prema struji. \n\nMože narasti do 7-8 kilograma težine. Naseljuje tekuće vode srednje Europe. Živi u jatima i putuje za vrijeme mrijesta uzvodno. Noćna je riba i po danu se zadržava u strujama i pod slapovima, a uvečer traži hranu i po plićacima. Osjetljiva je na studen pa pod jesen, čim vrijeme zahladi, traži zaklone i pada u neku vrstu zimskog sna iz kojeg se budi tek nakon toplijih proljetnih velikih voda. Mrijesti se od svibnja do konca srpnja. Mrijesti se u jakoj tekućoj vodi, a ikru lijepi po kamenju i šljunku. Malene mrenice se izlegnu nakon tjedan-dva i izlaze u manje pritoke i potoke dok ne porastu. Rastu prilično brzo. Oprezna je i snalažljiva u struji. \n\nNajbolje je vrijeme lova u kolovozu i rujnu, a može se protegnuti i na listopad, ako je vrijeme toplo a voda bistra, i proljeće ako je toplo vrijeme i nizak vodostaj. Najbolji rezultati postižu se predvečer i zorom jer je ona noćna riba. Naći ćemo je u dubokim snažnim strujama rijeka, uz strme i podlokane obale s pješčanim dnom. \n\nUzima hranu sa dna, zato mamac mora biti na samom dnu, što znači da najlon s udicom treba dobro opteretiti olovom. Najbolja meka je glista, sir i žganci. Mrena grize oprezno i udica mora biti dobro pokrivena mamcem. Treba je brzo zategnuti čim se osjete prvi udarci na udici. \n\nMeso mrene je puno sitnih kostiju, ali je ukusno i dobro. Za vrijeme mrijesta ne valja jesti ikru mrene jer izaziva proljev i grčeve. Meso nije štetno, a njezin otrov u ikri je termostabilan i ne uništava se ni kuhanjem ni pečenjem.</string>
+    <string name="riba_linjak">Tijelo mu je dosta nisko a rep kratak i čvrst bez velikog ureza. Usta su mu mala i na uglovima ima par brčića. Ljuska mu je sitna, a koža debela i sluzava. Bočna mu je linija puna a u prednjem dijelu se blago uzdiže prema glavi. Leđa su mu tamnozelena ili sasvim tamna, a bokovi i trbuh zelenkastotamni ili zlatnožuti, što ovosi o boji i bistrini vode u kojoj živi. \n\nŽivi u stajaćim i tekućim vodama Europe, bogatim biljem, muljem i glinom. Naraste obično do 2 kg težine. Mrijesti se od svibnja do lipnja, a ikru odlaže na vodeno bilje. Zimu provede zakopan u mulju i spada među riblje vrste koje mogu živjeti s malim postotkom kisika u vodi. Hrani se poput šarana sitnim životinjicama i mekušcima sa dna. Intenzivno se hrani samo ljeti, a zimi troši ono što je prije uhvatio. \n\nDosta je mirna riba. Lovi se na plovak priborom za udičarenje kao i šaran, obično u proljeće, a prihvatiti će glistu polagano i oprezno. Što je voda bistrija, linjak se više povlači k sredini riječnog korita, inače se skriva u travama i vodenom bilju. Uhvaćen je borben pa ga treba hvatati čvrstim priborom. \n\nMeso mu je masno i ukusno, posebno ako živi u tekućim vodama jer tada nema zadah po mulju.</string>
+    <string name="riba_klen">Klen nije prvorazredna riba. Takozvana bijela riba manje se cijeni, iako se naši ribolovni kriteriji s vremenom sve više mijenjaju, zajedno s promjenama u tokovima naših rijeka i života u njima. Klen je dosta pravilno i lijepo građen. Ima veliku glavu, široko i spljošteno čelo te velika usta. Po bokovima i po donjem dijelu tijela je srebrnast, a po hrptu tamnozelenkast. Krupne ljuske pokrivaju mu cijelo tijelo i pravilno su razmještene. Hrptena i prsna perajica su crnkasto-zelene, ili malo crvenkaste, a prsne perajice su narančaste. Tijelo mu je zaokruženo i izduženo, okretan je i vješt plivač. Plašljiv je i nije ga lako prevariti. Mamac grabi naglo i silovito. Kod nas može narasti do četiri - pet kilograma, a raste vrlo brzo ako ima dosta hrane i povoljne uvjete za život. Njegov životni prostor obuhvaća veliki zemljopisni raspon, što potvrđuje njegovu sposobnost prilagođivanja vrlo različitim klimatskim uvjetima, a može se prilagoditi i zagađenijoj vodi. \n\nKlen pripada rodu šarana. Zubi su mu duboko u ždrijelu i stoje u dvostrukom redu. Živi u svim pritocima Dunavskog sliva, a njegove podvrste i srodnici u cijeloj našoj zemlji. U nekim jezerima živi bijeli klen, a sitnoljuskavi u Dalmaciji. Mnoge podvrste dosežu tek dvadesetak centimetara pa nisu posebno zanimljive za sportske ribolovce. Uglavnom se upotrebljavaju kao mamac za krupniju ribu. No, klen je posebno zanimljiv jer se može loviti gotovo tokom cijele godine. \n\nKlen se najčešće zadržava na površini vode te u strujama i brzacima gdje hvata mušice i kukce. Krupniji komadi zadržavaju se u dubljim limanima ili se skrivaju pod granjem uz obraslu obalu. Živi u gornjim tokovima, uz pastrvu i lipljana, do nadmorske visine oko 1000 metara, u srednjim tokovima i u nizinskim dijelovima velikih rijeka. Prilagođava se izvorskim temperaturama vode od 10 °C pa sve do temperature nizinskih rijeka do 22°C. Za mrijest i razmnožavanje traži posebne uvjete i ne putuje u svadbenim plovama u potrazi za pogodnim mjestima kao ostale riblje vrste. Brzo je sposoban za rasplod i mrijest, pa se mrijeste i manji primjerci, a odlaže oko 100 000 komada ikre na šljunkovite i biljem obrasle plićake. \n\nKlen je svežder. Mali se klenići u jatima zadržavaju u rječicama ili potocima uz šljunkovito dno. Mlađ se hrani planktonima i vodenim biljem, a poslije se spušta u veće vode i jelovnik mu se nevjerojatno proširuje. U nizinskim vodama, gdje uz obale raste dud, višnja, trešnja ili šljiva, klen će se hraniti i voćem. Kao mamac prihvatit će sve - od gliste do životinjske iznutrice - zatim žito, kruh ili tijesto. Na visinskim tokovima hvatat će peša, a niže nizvodno sitnog kedera. Napast će i žabu i punoglavca, poći će i na sir, palentu ili makarone. Privlače ga razni crvići, rovci te razni kukci, posebno skakavci i hruštevi, a dobar su mamac i muhe i mušice. Dakle, u ribolovu na sveždera klena, mamac nije problem. \n\nLovi se na čekanje pri dnu, pogodnim mamcima ili pomoću štapa za potezanje uz rolu i varalicu. Upotrebljava se tanji najlon i manje varalice - leptiri ("meps") broj 1 do 3, ovisno o bistrini vode (mutnija - bijeli, bistrija - žući). Varalicu treba potezati preko brzaka i preljeva, iznad dubljih mjesta gdje klen obično vreba na sitniju ribu. Za sunčana i topla vremena zadržava se uz vodenu površinu, a kad je hladnije i vjetrovito, povlači se u dublja mjesta. Poseban je užitak loviti ga pomoću mušice ili kukca. Na umjetnu mušicu najradije će poći na bumbare, kočijaša, zulu, vješticu ili na specijalno veliku Schneiderovu klenovku. \n\nMožemo ga loviti podvodnom i nadvodnom mušicom. U jesen, pa sve do zime, najuspješnije ćemo loviti udičarenjem pri dnu ili potezanjem male varalice. Umjesto mušice možemo uzeti skakavca ili hrušta, zabacivati ih ispod granja i grmlja po površini vode te polagano puštati nizvodno da ih voda nosi. Ako nemamo posebnog pribora za ribolov umjetnom mušicom, možemo loviti i vodenom kuglom, kako bismo što bolje i dalje izbacivali mamac. Koristit ćemo suhe muhe (ožujku, zlatnu, crnog palmera i aleksandru). Ako nemamo umjetnih mušica, na manju udicu ćemo staviti skakavca. Kako treba loviti, vidjeti ćete u praktičnim savjetima. Klen se može loviti na sva tri ribolovna načina i to na mušicu, pri dnu i potezanjem. Zato on i je prvorazredna sportska riba. \n\nKlen se ne uzgaja u ribnjacima pa ga ne možete naći u ribarnicama. Ima mnogo sitnih kostiju i, ako su komadi manji, dosta je muke pri jelu. Klen iz visinskih tokova ima izvrsno meso i cijenjen je kod sportskih ribolovaca. No, ako je vrijeme toplo, treba ga prirediti za jelo dok je sasvim svjež, jer inače meso postaje suho i neukusno. Najbolje ga je odmah narezati na komade, uvaljati u brašno i peći na ulju.</string>
+    <string name="riba_klenić">Klenić је slatkovodna riba koja pripada obitelji Cyprinidae. Ima vretenasto tijelo i mala, ispupčena usta. Glava i leđa su mu tamno plave boje, a sa strane ima sjajnu srebrnkastu boju sa brojnim tamnim linijama. Trbušna i analna peraja su bijele, prošarane svijetlo crvenom bojom, a leđna i prsna su na krajevima crne. Leđna peraja ima samo sedam šipčica a repna peraja je jako rascijepljena. \n\nNaraste najviše do 40 cm, a najveća težina je 1 kg. Može živjeti do 16 godina. Preferira vodu od 6.0 do 8.0 pH, a idealan raspon temperature mu je od 4 do 20º C. Nastanjen je u rijekama i potocima Europe, sjeverno od Alpa, kao i u Aziji. Najviše je prisutan u Francuskoj i Njemačkoj. Voli čiste potoke, plivajući preko šljunkovitog dna dubokih mirnih voda zimi, a blizu površine ljeti. Iako je tipična slatkovodna riba zna ući u bočate vode na istoku Baltičkog mora. Živahna je i aktivna riba, rado se skriva iza kamenja, zimi boravi u dubljim vodama. \n\nKlenić se najviše hrani mekušcima, ličinkama, kukcima, biljkama se iznimno rijetko hrani. Klenić se razmnožava između ožujka i lipnja. Ženka polaže oko 30.000 jajašaca, koja se lijepe na vodeno bilje, potopljene panjeve i kamenje. Pretpostavlja se da se klenić razmnožava u nekoliko navrata i to najprije najstariji primjerci. Spolno je zreo sa 3 godine. Godišnje udvostruči veličinu, pa klenić od jedne godine ima 25 g, od dvije godine 50 g, od tri godine 100 g i od četiri 200 g.</string>
+    <string name="riba_saran">Po šaranu je cijeli jedan dio ribljeg roda dobio svoje ime. Latinski naziv šarana je Cyprinus carpio, a ribe šaranskog roda zovu se ciprinidi. Čak i određenu vrstu voda, nizinskih, koje sasvim polagano teku, nazivamo ciprinidnim vodama. U toj ribljoj porodici ima na stotine vrsta raznih riba koje žive u južnoj Europi i slatkim vodama Azije, Amerike i Afrike. Njihova je zajednička značajka da u gubici nemaju zube, nego imaju duboku ždrijelu sa svake strane po jednu kost ("ždrijelnicu") i na njoj po nekoliko zuba koji žvaču i potiskuju hranu na ždrijelnu ploču, te je tako drobe i usitnjuju. \n\nKod nas postoje riječni (divlji) i pitomi ili ribnjački šaran. Razlikuje se po građi tijela jer je ribnjački zbijenija tijela i višeg hrpta negoli riječni šaran. U ribnjacima ima i potpuno ljuskavih šarana (na slici) i veleljuskavih koji imaju po bokovima velike krupnije ljuske, te maloljuskavih koji imaju povezan niz ljusaka po hrptu od glave do repa i skupinu nepravilno razmještenih ljusaka u području repa, te golih šarana koji su potpuno bez ljuske. \n\nŽivi u stajaćim i polako tekućim vodama. Rasprostranjen je i u Europi i u Aziji. Kod nas ga ima u svim slivovima. \n\nŠaran se mrijesti uglavnom u svibnju i u lipnju, a ako je godina hladna, mrijest se produžuje i kasnije. Šaran je već u trećoj godini života sposoban za rasplod. On ima mnogo ikre, ali ima i mnogo neprijatelja koji tu ikru napadaju. Mužjaci i ženke traže zgodna mrijestilišta - plitka mjesta obrasta gustim vodenim biljem. Ženka odlaže jaja na šaš i trave, a mužjaci je prate i oplođuju jajašcima. Kroz tjedan dana izvali se mlađ koji brzo raste, pa su to u jesen već ribice dugačke 10 do 11 cm. Druge godine mogu biti teški i do pola kilograma, a treće i do kilograma, da bi u četvrtoj godini mogli imati već od 2 do 3 kilograma. \n\nČini se da je šaran dobroćudna riba, ali je vrlo oprezan i vješt u opasnosti. Ako ga hvatate mrežom, pokušat će se podvući ispod mreže ili je preskočiti. Šarani pamte mjesta gdje im se daje hrana, žilavi su i otporni, pa i bez vode ne ugibaju tako lako. Lovi se na različite načine i mamce. Od glista, crva, kruha i žganaca do kukuruza, te modernijih i sofisticiranijih metoda kao što su lov "boilom". \n\nNajbolje je vrijeme za lov ujutro i predveče, kad su jata u pokretu i traže hranu. Najbolji su mjeseci za lov od srpnja do listopada. Šaran najviše voli tiha i duboka mjesta u jezerima i rijekama. Za vrijeme velikih vrućina povlači se u hlad ili pod lopoče i vodeno bilje uza samu površinu vode. Kod nas mogu narasti veliki komadi i nerijetko preko 20 kilograma težine. Šaran je riba koja će dolaziti svaki dan na određeno mjesto ako ondje nalazi hranu. Stoga ribiči koji love šarana nekoliko dana prije polaska u ribolov hrane na mjestu gdje misle loviti. \n\nMeso mu je ukusno, ali može biti i premasno s mirisom mulja. Tada ga treba držati neko vrijeme u čistoj vodi pa će miris nestati.</string>
+    <string name="riba_stuka">Tijelo joj je prilagođeno i građeno tako da može brzo plivati i dostići svoj plijen. Duga je i vitka, glava joj je spljoštena, gubica šiljata s oštrim zubima okrenutim prema unutra, pa kad zgrabi ribicu, više je ne ispušta. Zelenkaste je boje, a sa strane ima žućkastobjelkaste pjege, ljuske su joj sitne. Trbuh joj je bijel, a hrbat tamnozelen; oči izbuljene, a leđna peraja položena daleko otraga. Kad brzo pliva, prsne su joj i trbušne peraje priljubljene sasvim uz tijelo. Naraste do 15 kg težine. Drži se gornjih slojeva vode, gdje vreba sitnu ribu. \n\nŠtuka živi gotovo u cijeloj Europi, osim u Španjolskoj i južnoj Italiji. Štuka je u prvom redu riba Sjeverne Amerike, a u Europi Skandinavije, Rusije i Sibira. Raširena je i u Aziji. Štuka je vrlo poznata riba, koja živi uglavnom u području voda što polagano teku. Najviše ih ima u barama, jamama i mirnim rukavcima naših rijeka. U Skandinaviji i Sibiru štuka može narasti preko 2 metra, a do 30 kg težine. \n\nŠtuka se mrijesti od veljače do travnja, na plitkim obalama obraslim vodenim biljem, a ženki se pridružuju jedan ili dva mužjaka. Ženka od 2-3 kg snese oko 100 000 jaja veličine oko 3 mm. Ovisno o temperaturi vode izvale se jaja za 2-3 tjedna, ali obično veći dio mlađa propada od samih štuka koje ga požderu. Štuka je prikladna riba za umjetni uzgoj u ribnjacima. Ona osjeća kretanje sitne ribe više bočnom crtom negoli vidom. Primijećeno je da reagira na crvenu boju, pa će varalicu sa malo crvene vunice na repu štuka napasti prije nego ono bez crvenog ukrasa. Štuka živi uz trave, lopoče, panjeve i klade, gdje vreba na sitnu ribu. Štuka je posljednjih godina i kod nas zaštićena za vrijeme mrijesta, jer zbog svoje proždrljivosti često nalijeće na varalicu pa postoji opasnost da se i ona u nekim vodama decimira ako se ne vodi briga i o održavanju njene vrste. Nije rijedak slučaj da je štuka uhvaćena na varalicu i da joj još iz gubice viri repić malo prije uhvaćene i prožderane ribice. \n\nZa sportske ribolovce štuka je vrlo zanimljiv proždrljivac koji nam može pružiti mnogo sportskih užitaka. Ona brzo raste i može pod povoljnim uvjetima u prvoj godini dostići gotovo kilogram težine, a u idućim godinama može još i brže rasti. Ona napada sve živo u vodi osim balavca i, kažu, linjaka. Štuka obično odlazi u lov na sitnu ribu zimi i u proljeće potkraj dana, a ljeti znatno kasnije. Kasnije poslije podne i predvečer ona će tražiti hranu u toku cijele godine. Izlazi na mjesta i plićake gdje se zadržavaju kederi i sitnija riba, a osobito na napajališta, na plitke obale ili jaču struju gdje sitna riba teže pliva. Zgrabit će i žabu ili miša ako na njih naiđe. \n\nLovimo je na potezanje ("špinanje"), rubom ili na grunt živim mamcem. Rijetko se može dogoditi do naleti i na glistu, osobito ako je jako mutna voda. Od varalica najbolja je nešto veća varalica (10-12 cm zajedno s trokukom na repu). U bistrim vodama bolja je žuta, a u mutnijim srebrnastobijela varalicama. Dobar je i leptir (meps) malo veći, broj 5 ili 6. Najlon treba biti jači. U barama i vodama stajačicama dobro je loviti imitacijom varalice miša s repićem. U dubljim vodama dobro je loviti pletenicom (copfom), na koju će štuka također rado naletjeti. \n\nKao predvez za ribolov na štuku dobro je uzeti tanku čeličnu žicu ili već gotove predveze od žice za raub jer najlon štuka često progrize. Dobri rezultati postići će se i špinanjem na uginulog kedera kojeg smo pričvrstili uz tzv. "sistem". Pri ribolovu varalicom ili mrtvim mamcem na "sistem" potrebno je vući varalicu tako da joj se štuka previše ne približi. Više puta se dogodi da štuka slijedi mamac, ali ga ne napada, tada treba ubrzati kretanje varalice, a nikako usporavati. Ako usporavamo kretanje varalice štuka sigurno neće zagristi jer se tako mamac u prirodi ne ponaša. Pri ubrzavanju vjerojatnost napada je 50:50. Pri ribolovu "raubom" potrebno je poznavati vodu gdje lovimo. Ribicu bi trebalo postaviti pedalj-dva od dna uz najdublje mjesto gdje bi se mogla kretati krupna štuke koja se povlači uz dno jer je tromija. Kad štuka grabi ribicu na "raubu", obično je hvata poprijeko, a zatim u gubici okreće i guta. To ne mora biti uvijek tako, ali u većini je slučajeva tako. Kada štuka zgrabi mamac, čep će potonuti. Ribiči griješe, ako izvlače "raub" kada čep potone. Čim štuka osjeti otpor, nastoji izbaciti mamac iz gubice i pobjeći, a mi ostajemo bez ulova. Poslije prvog potonuća čepa ili prvog gibanja čepa potrebno je pričekati. Čep će zatreperiti na vodi, nakon toga, ako štuka okreće kedera i započne ga gutati, krenut će prema dubini - tada treba zategnuti ribu. Slučajevi su različiti - više puta se može zategnuti odmah nakon što čep potone, ako su veće trokuke koje bi mogle zakačiti odmah štuku za gubicu. Uhvaćenu je štuku potrebno oprezno osloboditi od udice, jer nam se može desiti da ozlijedimo ruku na njenim oštrim zubima. Najbolje je upotrijebiti izvlakač ili kliješta za vađenje udice.\n\nŠtuka koja živi u čistim i bistrim vodama odlična je za jelo i meso joj nema zadah po mulju.</string>
+    <string name="riba_som">To je jedini europski zastupnik ove brojne porodice. Som ima veliku glavu, s velikim ustima i sitnim zubićima. Glava mu je široka i spljoštena, a oči sitne i malene. Na gornjoj usni ima dva velika brka, a na donjoj četiri mala. Tijelo mu je golo i ljigavo, a od glave prema repu sve tanje i plosnatije. Donja mu je perajica vrlo uska i produljuje se do kraja repa. Hrptena mu je perajica kratka. Gornja mu je strana sivomaslinasta i tamna, a donja prljavobjelkasta. Često ima po sebi i nepravilne pjege. Uz jesetru i morunu spada među najveće riječne ribe i može narasti preko 300 kilograma težine. \n\nŽivi u velikim rijekama srednje, sjeverne i istočne Europe. Kod nas ga ima u Dunavskom slivu. Som živi sam i ne kreće se u grupama. Drži se mirnih dubokih mjesta u rupama u sredini riječnog toka ili pod obalom ispod panjeva i klada. Mrijesti se od svibnja do srpnja u plićim vodama. Ženka odlaže ljepljivu ikru na vodeno bilje. U to se vrijeme nađu mužjak i ženka pa zajedno plivaju. Ako je pogodan vodostaj, mladi som brzo raste. Som je noćni grabežljivac, iako se kreće i danju kad se voda zamuti i digne. \n\nPoznato je da će som krenuti u potragu za hranom ljeti za vrijeme žestokih oluja, pljuskova i grmljavina. Kada pođe za hranom, kreće se i po najjačim vodenim strujama, a poći će i na plića mjesta. Som je proždrljiv svežder koji napada sve živo. Lovi se na čvrst i jak pribor, debeli najlon i veliku udicu. Noću se kao mamac postavi hrpa glista, pijavica i žive ribe. Ako se lovi na potezanje ("špinanje"), koristi se debeli najlon i malene teške svijetle varalice koje se povlače uza samo dno, gdje voda struji iz plićaka u dubinu. \n\nLovi se i na takozvano "bućkalo". Ribolovac pusti da mu voda nosi čamac sredinom rijeke, a on drži u ruci čvrsto uže s mrmkom ili ribicom te istovremeno drvenim bućkalom (slično gornjoj polovici boce) bućka po vodi, stvarajući zvukove koji se čuju na stotine metara. Som dolazi u smjeru zvuka, vidi mamac i grabi ga, a o vještini ribolovca i veličini soma ovisi hoće li biti izvađen iz vode. Lovi se i na žabe, školjke, pileća crijeva i slično. Ako som uhvati mamac, on ga obično guta zajedno s udicom. U vodi je vrlo snažan i borben, pa je potrebno uložiti dosta truda i vremena da ga se izvuče. Treba polako i strpljivo manevrirati dok se som ne umori, a tek onda ga treba izvlačiti jer svako forsiranje može dovesti do gubitka ulova. Svakako se pri izvlačenju soma preporučuje upotreba gafa. Som ne voli hladnoću, pa zimu provede zakopan u mulju. Kada se dignu mutne proljetne vode, diže se i som sa svog zimovanja. Som najbolje grize u toku ljeta pa do početka zime. \n\nMeso mu je izvrsno i s malo kostiju.</string>
+    <string name="riba_bolen">Vitka je tijela, modrozelena hrpta, a bokovi i trbuh su mu srebrnasti. Peraje su mu rumenkaste. Ima duboko usječenu i veliku gubicu, male oči i ljuske. Naraste od 5 do 6 kilograma težine. Živi po rijekama srednje Europe. Voli bistru ali ne prebrzu vodu. Hrani se sitnom ribom koju goni po površini i plićacima. Mrijesti se u travnju i svibnju i tada se skuplja u jata koja kreću na plićake. Osjetljiv je pa izvan vode brzo ugine. Pred zimu se bolen povlači za sitnom ribom prema dnu, gdje i prezimi ali i goni sitnu ribu. \n\nLovi se na "raub" na sasvim sitnu ribu i vrlo tanak pribor, a mamac se pušta niz struju. Priborom za potezanje lovi se također tankim najlonom i malim svijetlim varalicama. Lovi se i umjetnom mušicom, najbolje za vrijeme toploga sunčanog proljeća i ljeti. Jasno je da voda mora biti bistra. U obzir dolaze prirodni kukci, a od umjetnih bumbari, zulu, vještica, bijeli vodeni cvijet i aleksandra. \n\nMeso bolena je bijelo i mekano pa, iako ima dosta kostiju, vrlo je dobro.</string>
+    <string name="riba_mladica">Mladica je postala Kod nas dosta rijetka riba pa je nije lagano naći, a niti uhvatiti. S porastom industralizacije ona izumire kao vrsta, a u Austriji je gotovo i nestala. To je naša najveća salmonidna riba, a i najveći trofej svakog sportskog ribolovca. Glavna sezona lova na mladice je zima. Zovu je još i dunavskim lososom, jer ostaje uvijek u području sliva Dunava, gdje i jedino živi. \n\nTijelo joj je izduženo i valjkasto. Ima veliku snažnu gubicu i zube. Gornja joj je strana tijela zelenkastosmeđa ili plavkastosiva, a prema trbuhu prelazi u bijelosrebrnu boju. Po glavi i hrptu ima crne točke, a na tjemenu i hrptu nešto su veće crne pjege. Peraje su žućkastosive i bez pjega. Koža joj je čvrsta i debela. \n\nMožemo je naći u rijekama do 1000 m nadmorske visine. Glavna joj je hrana podust, klen, pa i pastrva. Najradije se zadržava u većim rijekama, u virovima i iza velikog kamenja te podvodnih greda. Glavna obilježja rijeka gdje živi i mladica jesu hladne i pretežno biste vode, čisto pjeskovito, kamenito ili šljunkovito dno, jaka struja s brzacima, slapovima, bukovima, te dovoljna dubina i dovoljno ostalih riba kojima se mladica hrani. Obično su to teže pristupačni predjeli gorskih rijeka pritoka Dunava. Ona se, prema tome, nalazi u najgornjem području Dunava, u Dravi na području iznad i ispod Varaždina, na terenima oko 50 km toka Drave; u gornjem toku Save do Zagreba. Ima je na ušćima Kupe i Une. Na Kupi se nalazi od brane kod sela Turki u Gorskom Kotaru pa sve do Ozlja, hidrocentrale. Rijeka Dobra također ima mladice. Mrijesti se na pješčanim terenima, gdje ženka kopa repom rupu na dnu rijeke po nekoliko dana puštajući ikru, oko nje obično pliva po nekoliko mužjaka koji se znaju i međusobno žestoko pograbiti zubima. \n\nMladica se lovi obično zimi, kada je tmurno vrijeme s mrazom ili laganim krupnim snijegom. Kada se hlade vode, mladica se spušta u potrazi za podustom. Ona dolazi u niže i srednje tokove, pa kasnije, kada vode zatople, opet vraća u svoja stalna područja. Ona je oprezna, dobro pliva i vidi pa je lako nije prevariti. Zadržava se i na prijelazima gdje voda iz veće dubine prelazi naglo u plićak, ispod podlokanih obala i ispod samih slapova. Na takvim mjestima mladica vreba sitniju ribu. Ona se lovi obično potezanjem ("špinanjem") a rjeđe krupnom mušicom. Lovi se čvrstim priborom, te velikim varalicama sve do 12 cm. Odlični rezultati mogu se postići i pletenicom ("copfom"). Čim osjetimo otpor, treba dati jaki protupotez jer mladica ima čvrsto nepce, pa se udica neće lako zakvačiti. U ribolovu na mladicu treba biti uvijek na to spreman, i ne treba špinati uz visoku obalu ili na nepristupačnom mjestu.</string>
+    <string name="riba_menjka">Manjić je na prvi pogled sličan somu. U koži su mu vrlo sitne ljuske koje se jedva vide. Glava mu je spljoštena, a na podbratku mu visi samo jedan brk. Prednja je hrptena peraja kratka no odmah se nastavlja druga do repa koji je zaokružen. Donja mu je peraja isto duga kao hrptena. Mužjak ima krupniju glavu i vitkije tijelo. Hrbat mu je zelenkast ili tamnosiv, osut nepravilnim tamnim šarama, a trbuh bjelkastosiv. Koža mu je debela i sluzava. \n\nŽivi u rijekama Europe, Azije i Sjeverne Amerike, posebno na sjeveru. Kod nas ga ima u slivu Dunava. Obično je težak do 2 kilograma, ali može narasti na dalekom sjeveru i preko desetak kilograma težine. Živi u čistim vodama s pjeskovitim dnom. \n\nProždrljiv je, i svežder pa napada i sitni mlađ i ikru. Manjić obično proguta glistu s udicom i obično ostaje na istom mjestu, tako da ga sportski ribolovac hvata slučajno, osim zimi na određenim mjestima, kad se zna gdje se zadržava. Lovi se za vrijeme mutnih voda, pogotovo zimi, na živu ribici ili glistu. \n\nMrijesti se u prosincu i siječnju pa se za vrijeme mrijesta skuplja u jata. Ima mnogo ikre, kao i jegulja, koju polaže po šljunku. Raste polagano, a za vrijeme mrijesta su mu jetra neobično velika kao u svih bakalara. meso mu je ukusno i dobro</string>
+    <string name="riba_lipljen">Lipljen je više sličan bijeloj ribi nego salmonidu. Ima mala usta, veliku i grimiznu leđnu peraju. Na leđima ima male okrugle crne pjege, a po bokovima veće. Hrbat mu je zelenkastosiv, bokovi srebrnasto-žućkasti, a trbuh bijel. Naraste kilogram do kilogram i po težine i četrdesetak centimetara dužine. Živi u srednjoj i sjevernoj Europi. Na jugu se može naći do naše zemlje i Francuske, a na sjeveru dopire daleko sve do Laponije i Murmanska. Živi u bistrim vodama plićeg dna, šljunkovitog i ilovastog te ondje gdje se vodeni tok izmjenjuje bržom strujom i tišim mjestima. Ne voli ni pretopli ni prehladnu vodu i ne ide tako uzvodno kao pastrva, a zalazi nizvodno i u zonu mrene. Kod nas ga ima u Kupi, Slušnici, a nasađen je i kod Gojaka na Dobri. \n\nHrani se ličinkama, pužićima, sitnim vodenim životinjicama i mušicama. Lipljan se lovi umjetnim mušicama, obično onim manjima i sitnijima. Koriste se obično mušice veličine 12 do 16, a iznimno 17 i 18. Kada je oblačno i tmurno ili zimi, lovi se većim mušicama (12-10). Sezona ribolova na lipljana počinje u svibnju. Ljeti ide na mušicu samo rano ujutro ili predvečer, a i za tmurnog vremena ili lagane kiše. Obično se u bistrim vodama lipljan može vidjeti kako kreće prema mušici i ribolovac mora na vrijeme zategnuti uzicu. U svibnju se koriste Horrock\'s fly, Hardy\'s Favourite te prema situaciji na samoj vodi, treba vidjeti koje mušice lete oko vode pa pokušati s najsličnijima. U svibnju se mušice roje, lete oko vode i padaju u nju, pa to riba koristi. Tu su i kozarica, zlatovka, crni mrav i brljak bez krila. Ipak je glavna sezona jesen, ali se onda koriste i druge mušice. Kad se lipljan uhvati, vrlo je borben, pobjeći će u najjaču struju ili skakati iz vode. često se veći lipljan zaleti i na manji žuti leptir ("meps" broj 2 ili 3). Svoje kretanje prema površini lipljan ne određuje prema suncu nego prema tlaku; ako je niži, ide prema dnu, a ako je viši, prema površini. Pri temperaturi od 6°C lipljan prestaje uzimati hranu, a pri temperaturi od 12°C i ako je voda toplija, postaje trom zbog nedostatka kisika u vodi. \n\nLipljan je spolno zreo od treće godine života, a mrijesti se od ožujka do svibnja, što ovisi o temperaturi vode i vremenskoj situaciji. Lipljan putuje uzvodno tražeći mjesto za mrijest. To su obično mirnija i plića mjesta u potoku ili rijeci. Ženka, već prema starosti, odlaže do 12 000 komada ikre. Osim starosti ženke na plodnost ribe utječu i drugi ekološki faktori u rijekama. Ikra je u prosjeku veličine od 2.5 do 3.5 mm i žute je boje. Inkubacijski period oplođene ikre traje od 45 do 60 dana. Lipljan je osjetljiva riba, ali izvrstan plivač i po najvećoj struji. Zagađivanjem gornjih tokova voda polagano nestaje i treba paziti da se ova lijepa i plemenita riba sačuva, a to je jedino moguće čuvanjem čistoće vode i stalnim poribljavanjem.</string>
+    <string name="riba_pastrvskigrgec">Pastrvski grgeč je sivozelenkaste boje s tamnim leđima i svjetlijim trbušnim dijelom. Uzduž bokova i po leđima ima nepravilne crnkaste mrlje. Ima veliku glavu. Mrijesti se u svibnju i lipnju kod temperature vode od 16°C na plićim mjestima. Odrasla ženka ima, ovisno o veličini, od 2000 do nešto preko 20 000 ikre. Ikru i izvaljen mlađ čuvaju roditelji. \n\nVoli stajaće ili lagano tekuće toplije vode. Njegova domovina su slatke vode Sjeverne i Srednje Amerike. U Hrvatsku je prenesen prije otprilike sto godina u neka ribničarstva. Iz ribnjaka je bježao u otvorene vode, a kada se prije šezdesetak godina prestalo s njegovim uzgojem u ribnjacima, nestao je i iz otvorenih voda. Ponovo je pred tridesetak godina kao mlađ uvezen iz Francuske i stavljen u neka naša ribnjačarstva. Ima ga i u rukavcima Drave, kad dolazi iz Mađarske gdje ga uzgajaju. \n\nLovi se ljeti, najbolje "grize" ujutro i uvečer pri temperaturi vode od 18 do 23°C. Lovi se na manje leptire (mepseve) i ostale modernije varalice i vrlo je borben. U Americi naraste do desetak kilograma, a kod nas do dva kilograma. Meso mu je izvrsno kao i grgečovo.</string>
+    <string name="riba_pastrvapotocna">Pastrva je poznata po crvenim točkama i pjegama na tijelu. Crvenih pjega obično ima manje nego crnih. Neke podvrste imaju i po leđima i po bokovima okrugle crne točke raznih veličina. Crvene točke mogu biti u nijansama - od žarko-crvene boje do sasvim svijetlocrvene. Za vrijeme mrijesta boje su jače izražene i ljepše su. Pastrve koje žive u plićim vodama, gdje je dno pokrito šljunkom, obično su svjetlije boje, a one iz dubljih voda i podvodnih pećina ili spilja su tamnije do gotovo crne boje. Jedino su im žarkocrvene točke i bjelkasto-sivi trbuh. Mlađe pastrve se razlikuju bojom od već razvijenije i odrasle pastrve. Tek poslije druge godine života kod pastrve nastaju prave boje koje se ipak mijenjaju prema situacijama u vodi (vodostaj, količina kisika, sastav dna i dr.) Događa se da se u istoj rijeci pastrva iz gornjeg toka razlikuje od one s donjeg toka. \n\nPoznato je da pastrve na manjim vodama i potocima ne mogu osobito narasti zbog smanjenih mogućnosti i uvjeta. Obično su to pastrve do dvadesetak centimetara dužine. Na većim vodama, gdje su izvanredni prehrambeni uvjeti, može narasti i do deset kilograma, pa i više. \n\nPastrva živi u planinskim potocima cijele Europe - od dalekog sjevera do sredozemnih obala Afrike. Bitni uvjeti za njezin život su količina kisika u vodi, brzina protoka i temperatura vode. \n\nPastrva ima poveću glavu s tupom gubicom i velika usta s oštrim zubima. Peraje su joj čvrste i zaokružene te dosta široke. Trbuh joj je srebrnast, žućkast ili svijetlosiv, a leđa i hrbat od svijetlije do tamnozelenkaste, tamnosive ili tamnosmeđe ili do gotovo crnkaste boje. Bokovi su obično zelenkasti ili žućkasti. Ljuske su joj sitne i gotovo okrugle. Pastrva je odličan i brz plivač, a tijelo joj je lijepo i proporcijalno građeno. Idealna temperatura vode za potočnu pastrvu je do 10-ak°C međutim, ona može podnijeti i vodu od 15 do 16°C. Pastrva se obično zadržava na jednom području, a seli se ili zbog nižeg vodostaja (obično nizvodno) ili zbog mrijesta tražeći položaje (uzvodno) te u potrazi za hranom nešto uzvodno ili nizvodno. \n\nPrema klimatskim uvjetima obično se mrijesti obično se mrijesti od kraja jeseni do kraja siječnja. Mužjak i ženka nađu odgovarajuće mjesto koje nije previše plitko ni preduboko, na šljunčanom dnu rijeke ili potoka, pri ušću, repovima i glavom iskopaju tlo dvadesetak centimetara duboko i tamo ženka polaže ikru koju mužjak odmah oplođuje. Ženka obično polaže u prosjeku oko 900 komada narančaste ikre, promjera do 5 mm, koja se poslije otprilike dva mjeseca izvaljuje. Spolno zrela postaje nakon dvije do tri godine života. \n\nPastrva je proždrljiva i vrlo oprezna riba. Dok je mlada, hrani se kukcima, crvima, ličinkama, larvama i insektima, a kasnije napada sve što može i na površini i pri dnu, pa čak skače iz vode za mušicama. Tada već napada i sitnu ribu, pa račiće i malu žabu. \n\nRibolov na pastrvu posebno je zanimljiv jer zahtijeva od ribolovca maksimum napora, dosjetljivost i iskustva. Poznato je da se obično lovi na dva načina (ostalo je krivolov). Umjetnom mušicom sa specijalnim priborom za umjetnu mušicu ili pomoću vodene plastične kugle ("vaserkugle") ili pomoću štapa za potezanje ("špinanje") i role s malim varalicama, te pomoću male rotirajuće varalice leptira. Pastrva se vrlo vješto bori čim osjeti da je uhvaćena. Munjevito pliva protiv struje, skače iz vode i pliva u granje ili grmlje. Manji se komadi zadržavaju u u brzacima i strujama oko slapova, a u dubinama velikih virova ili pod stijenama i kladama žive veći komadi. Za ribolov mušicom najpovoljnije je vrijeme od polovice srpnja, pa opet od kraja kolovoza do listopada. Poznato je da se pastrva najbolje lovi za oblačnih dana ili poslije blage ljetne kiše. \n\nMeso pastrve smatra se najkvalitetnijim od svih riječnih riba. Najveći primjerak uhvaćen je kod nas 1968. godine prilikom pražnjenja akumulacijskog jezera Lokve. To je bila pastrva duga 124 cm, a 25.5 kg teška.</string>
+    <string name="riba_pastrvakalifornijska">Slična je potočnoj pastrvi, samo je šira i izgleda snažnije. Po tijelu ima nepravilne crne pjege. Hrbat joj je tamnozelen a na bokovima se od glave do repa proteže šarena linija duginih boja koja vuče na rumeno. Zbog toga je i zovu ružičasta pastrva. U bivšu Jugoslaviju donesena je 1893. godine, kada su njome poribljene neke naše vode. Prava joj je domovina Amerika - Kalifornija i Kanada. Budući da može podnijeti i topliju vodu, uzgaja se i u ribnjacima odakle se redovno povremeno ubacuju zbog poribljavanja. Poznato je da se ne zadržava na jednom mjestu. Čim malo poraste, putuje nizvodno. Zbog toga je potreban i oprez pri poribljavanju pa su za tu svrhu i najzahvalnije rijeke ponornice. \n\nKalifornijska pastrva se mrijesti početkom godine i, dok je još mala, hrani se planktonom te sitnim vodenim životinjicama. Vrlo je proždrljiva i grabežljiva riba, a odličan je i brz plivač. Može narasti do desetak kilograma, ali su veći primjerci rijetki, jer je grabežljiva pa odmah grabi mamac. \n\nSportski ribolovci je love na umjetnu mušicu i to predvečer, ili za vedrih i tihih proljetnih dana. Obično se upotrebljavaju krupnije mušice kao, na primjer, velika zmajevka, bumbari, velike tetrijebovke i kamenjarke. Za ribolov potezanjem koriste se leptiri ("mepsovi") od broja 0 do 3. U ribolovu potezanjem varalice poželjnije je oblačno vrijeme s malo vjetra. U našoj zemlji živi još i jedna podvrsta "amerikanke" - to je Salmo gairdneri shasta. Razlikuje se od one prave po tome što ima sitnije crne točke, repna peraja joj je manje usječena, a leđna je nešto duža i uža. Prva poribljavanja ovom podvrstom prevedena su od 1930. do 1935. pa je tada njome poribljena i rijeka Gacka.</string>
+    <string name="riba_suncanica">Tijelo joj je vrlo spljošteno i visokog je trupa. Hrptena peraja joj je dosta dugačka. Plavkastozelenkaste je boje, trbuh je narančast, a brkovi su posuti narančastim pjegama i tankosmeđim točkama. Na škržnim poklopcima ima tamnozelenkaste pjege. Ona je, kao i američki somić, donesena iz Amerike i veoma se razmnožila u našim vodama. Naraste od 10-15 cm. Voli mirne vode s bujnom vegetacijom. Ljeti se drži plićaka, a zimi se povlači u dubinu. \n\nŠtetna je za sve živo oko sebe jer je vrlo proždrljiva pa ždere mlađ i ikru. Mrijesti se od svibnja do srpnja, a ikru odlaže u gnijezda koja grade i čuvaju mužjaci. Hvata se na sitnu glistu. \n\nMeso joj je dobro, a sama je sunčanica lijepa šarena ribica pa je neki drže i u akvariju.</string>
+    <string name="riba_grgeč">Tijelo mu je malo po strani o bokovima stisnuto i dosta visoko. Ima čvrsto prirasle ljuske srednje veličine. Hrptena mu je peraja dvodjelna. Prvi dio čvrst i bodljikav, a u drugom je samo prva koščica čvrsta, dalje je peraja mekana. Na kraju prvog dijela hrptena peraja ima crni znak. U ustima su mu sitni, oštri zubi. Po leđima je tamnozelen, a po trbuhu žućkast ili bjelkast. Okomito po tijelu ima pet do devet tamnih pruga. Trbušne su mu peraje žućkasto-crvene, a repne sivkasto-zelene. Naraste od 20 do 30 cm, ali može narasti i do 3-4 kilograma težine. Živi u tekućim i stajaćim vodama. Rasprostranjen je u Europi i Aziji. U Španjolskoj i Italiji ga nema. Kod nas živi u vodama Dunavskog i Egejskog sliva. \n\nMrijesti se u proljeće, od ožujka do svibnja. Ženka polaže ljepljivu ikru, a mužjak je prati. Drži se plićaka gdje napada sitnu ribu, vrlo je proždrljiv. Pliva uvijek na mahove. U brzom zaletu može u času stati i onda se zaletjeti dalje. Drži se u jatima i zadržava iza grana, panjeva, rupa i korijenja u rijeci. \n\nNajbolje se lovi u veljači, pa od lipnja do studenog. Lako se lovi na potezanje ("špinanje"), mali žuti meps broj 2 i sitnu varalicu, inače na čep i glistu. Vrlo je zahvalan za sportskog ribolovca, te ga i početnici mogu lagano loviti, a i zato što grize gotovo u toku cijele godine. Obično se drži donjih tokova vode, nešto niže no što dopiru štuka ili som. U mladosti lovi plankton životinjskog podrijetla, a poslije lovi sitne račiće i krupniju vodenu faunu. Na početku jeseni skupljaju se u veća jata i traži dublja mjesta ispod podrivenih obala, tu će prezimjeti. \n\nJednogodišnji grgeči dostižu do 7.2 cm, od 5 godina 12.6 cm, 10 godina 18.2 cm, 15 godina 23.6 cm. Brzina rasta ovisi o gustoći nasada i uvjetima prehrane. Iako grgeč živi u nizinskim vodama, ipak su mu potrebne veće količine kisika; zato je osjetljiv na nedostatak kisika u vodi. Grgeči iz otvorenih voda imaju i dulje tijelo i vitkiji oblik, oni iz zatvorenih zbiti su i široki. \n\nGrgeč nije osobiti plivač i zato lovi iz zasjede. Čim opazi plijen, zaustavi se, naroguši peraje i onda napada. Opaženo je da u mlađim godinama grgeč uzima hranu gotovo cijelog dana, dok krupniji komadi samo onda kad su povoljni uvjeti za ribolov. \n\nMeso mu je odlično i nema mnogo sitnih kostiju.</string>
+    <string name="riba_balavac">Obični balavac je po leđima tamno maslinast, a po tijelu ima tamne pjege. Koža mu je sluzava i pokrivena oštrim sivim ljuskama. Prednja hrptena peraja srasla mu je sa stražnjom i bodljikava je, pa uzrokuje bolan ubod ako se njime pažljivo ne postupa. I po škržnim poklopcima je bodljikav. \n\nNaraste do 25 cm, a hrani se sitnom ribom, crvima i kukcima. Živi u brzim i tekućim vodama s kamenim i pješčanim dnom. Živi u srednjoj i istočnoj Europi, a kod nas u pritocima Dunava. Lovi se na glistu, silovito guta i vuče mamac jer je veoma proždrljiv. Mrijesti se u ožujku i travnju, a ikru odlaže na plićacima po kamenju i vodenom bilju. \n\nMnogi ribolovci smatraju da nema dobre riblje juhe bez pokojeg balavca. Meso mu je ukusno.</string>
+    <string name="riba_tolstolobiksivi">Razlikuje se od bijelog tolstolobika, jer na trbuhu nema grebena, glava mu je veća, a boja tijela tamnija. Na bokovima ima tamne nepravilne mrlje. On raste brže od bijelog tolstolobika, a hrani se i zooplanktonom i planktonskim algama. Domovina mu je Kina, a u Mađarskoj je uveden u ribnjičarstva već 1963. pa je tako došao i u naša ribnjačarstva. U Mađarskoj spolno sazrijeva za šest do sedam godina, međutim, potreban je umjetni mrijest jer se također, ako i bijeli tolstolobik, mrijesti prirodno pri visokim temperaturama vode. Naići će pri ribolovu na glistu, ali je za njegov ribolov potreban vrlo čvrst pribor. Naši ribolovci nasađuju njegov mlađ u društvenim ribnjacima. Kod nas naraste također do dvadesetak kilograma, a u svojoj domovini do četrdeset. \n\nMeso mu je, kao i kod bijelog, odlično.</string>
+    <string name="riba_tolstolobikbijeli">Zovu ga i bijelim glavašem. Tijelo mu je visoko, a glava široka. Oči su mu smještene nisko. Po srednjoj liniji trbuha postoji greben koji se pruža od grla do analnog otvora. Prsne peraje dopiru do trbušnih. Leđa su sivkastozelenkasta, a bokovi srebrnasti. Može narasti do metar u dužinu i preko 20 kg težine. Spolno je zreo u južnijim krajevima nakon tri godine.\n\nMrijesti se ljeti od lipnja do kolovoza, pri temperaturi vode od 26 do 30°C. Domovina mu je, kao i amuru, Azija i Kina. Ženka odlaže preko 500 000 jajašaca koja su, kao i u amura, polupelagička i lebde u vodi. Mlađ se hrani zooplanktonima, a kad malo poraste, prelazi na ishranu planktonskim algama. Velike su mogućnosti njihova uzgoja te se sve više uzgaja i u našim ribnjacima. Bronhio-spine su međusobno srasle i grade neku vrst mreže. U ribnjacima i stajačicama zagrist će na zrnatu hranu, na glistu ili na ličinku.</string>
+    <string name="riba_sabljarka">Tijelo joj je izduženo s oštrim bridastim trbuhom koji je zaokružen. Bočna linija je izlomljena i valovita, a hrbat ravan. Usta su joj zavrnuta gore i gotovo okomito urezana. Prsne peraje su joj vrlo dugačke, šiljaste i sabljasto zavinute. Hrbat joj je modrikast, a bokovi srebrnasti. Živi u bočatim i slatkim vodama. U proljeće ulazi u rijeke gdje se i mrijesti. Naraste do 45 cm dužine i oko 2 kilograma težine. \n\nHrani se sitnim životinjicama i planktonima, a kod nas živi u slivu Dunava. Životno područje joj je i u slivovima Crnog, Kaspijskog, Aralskog i Baltičkog mora. \n\nMeso joj je puno kostiju i lošeg okusa.</string>
+    <string name="riba_keciga">Tijelo joj je produženo, a gubica zašiljena. Usta su joj s donje strane gubice i nema zuba. Između usta i vrška gubice ima resaste brčiće za pipanje i traženje po dnu. Oči su joj malene i okrugle. Hrbat joj je tamnosiv, bokovi svjetlili, a trbuh bjelkast. Perajice su joj sivkaste. Po tijelu ima rožne štitove-pločice, i to jedan na hrptu, 2 po bokovima, sa svake strane po jedan, i 2 na trbuhu. Koža joj je gola i glatka. Leđnih štitova ima 12-17 i oni su oštriji. Kostur joj je hrskavičast. \n\nŽivi u pritocima Crnog i Kaspijskog mora. Za razliku od ostalih jesetri, kečiga rijetko zalazi u more i ona je najmanji predstavnik tog roda jer joj je obično veličina 30-50 cm. Ona je riba dubokih nizinskih voda. \n\nHrani se ličinkama i kukcima s dna gdje ruje i traži hranu. \n\nLovi se samo pri dnu malom udicom na glistu ili ličinke vodencvijeta. Najbolje se lovi u proljeće prije mrijesta, pa ljeti i u ranu jesen. Kreće se u jatima i putuje rijekom. Na trzaj treba odmah zategnuti, a pozicije su ondje gdje je ilovasto dno rijeke. U svibnju i lipnju kečige odlažu ikru po kamenu i šljunku u dubokoj brzoj vodi. \n\nMeso joj je žućkasto i vrlo tečno.</string>
+    <string name="riba_jegulja">Tijelo joj je dugačko i zmijoliko. Po tijelu ima sitne ljuskice. Prema repu je tijelo spljošteno, a leđna i podrepna peraja se protežu od gotovo polovice tijela te spajaju u repnu peraju koja završava šiljasto. Koža joj je sluzava, oči malene, a u ustima ima mnogo sitnih oštrih zubića. Leđa su joj tamnozelenkasta, a trbuh srebrnast. Mužjak naraste do 50 cm, a ženka do metar i po, odnosno 5 kg težine. Zimi se jegulje zavuku u mulj i čekaju dok se voda ne zagrije. Iz mora ulazi u slatke vode vezane sa Sredozemnim morem, Atlantskim, Indijskim i zapadnim dijelom Tihog oceana. Rijeto se desi da pokoji primjerak zaluta u Dunavski sliv. Jegulja voli mirniju vodu i mekano dno. Po danu se drži mulja, a noću traži hranu. \n\nHrani se crvima, raznim račićima, ribljim mrijestom i sličnim vodenim životinjicama. Proždrljiva je i grabežljiva, a rađa se u moru i umire u moru. Jegulje ulaze u rijeke gdje se zadržavaju 4 do 5 godina dok potpuno ne odrastu i započnu se spremati za rasplod. Onda polagano putuju prema moru. \n\nŽenka jegulja nosi preko milijun komada ikre, više negoli ijedna slatkovodna riba. Jegulja putuje dalje morem do Atlantskog oceana, zapravo do Sargaškog mora (između 22 ° - 23° sjeverne širine i 40° - 65° istočne dužine). Na tom putu prestaje uzimati hranu. Jegulja se spušta na dubinu od 100 do 300 metara, gdje se mrijesti od veljače do travnja. Nakon mriješćenja jegulje ugibaju. Oplođena jaja dižu se prema površini pa se u dubini od oko 100 do 300 m izlegu ličinke u obliku plosnatih listića koji dalje idu prema površini i rastu. Morske struje ih nose prema Europi. Nakon 3 godine putovanja stižu do riječnih obala i do tada narastu do, otprilike 6 do 8 cm. \n\nLovi se na glistu, komadić ribe ili žabe. Dobro guta udicu zajedno s mamcem. Jegulja se najbolje lovi između svibnja i kolovoza, podveče i noću, a mamac mora ležati na dnu. \n\nMeso je jegulje vrlo ukusno, ali masno i teško. Krv joj je otrovna, ali se kuhanjem ili pečenjem taj otrov rastvara - na temperaturi od 58°C.</string>
+    <string name="riba_karas_zlatni">Zlatna ribica je slatkovodna riba iz porodice šarana (Cyprinidae) i jedna od prvih domestificiranih riba, koje su još i danas popularne među akvaristima. Glavni predstavnik roda Carassius i ujedno najraširenija vrsta, Carassius auratus, masovno se uzgaja u ribnjacima i u privredno-prehrambene svrhe. Zlatni karasi su prvobitno naseljavali vode Koreje, Kine i Japana, odakle su se brzo raširile po cijelom svijetu. U Europu su unesene još sredinom 18. vijeka, a uspješno razmnožavanje u akvarijima počinje krajem 19. stoljeća. Vrstu je prvi put opisao švedski naučnik, Carl von Linné, 1758. godine. Zlatne ribe su u akvaristici popularne kao početničke ribe. Za njih se vežu jedne od najvećih zabluda kada su u pitanju kućni ljubimci, te zbog toga i pate. Najčešće se drže u staklenim ili plastičnim kuglama, bez odgovarajućeg pročišćivača vode ili zračne pumpe, iako su šarani ribe kojima je to najviše potrebno, imajući na umu njihov brz metabolizam i potrebu za velikim količinama kisika u vodi. Kao posljedica ovakvog držanja, zlatne ribe u zatočeništvu prežive od šest do osam godina, što je malo u usporedbi sa ribama kojima se omoguće normalni životni uvjeti, a koje tada mogu živjeti i do pedeset godina. \n\nLeđa karasa su bjeličasto-sive boje sa zlatnim odsjajem. Bokovi su srebrnasti, ponekad sa zelenim ili crvenkasto-žutim prelivima. Peraja su crvenkasto siva. Svim sortama je zajedničko visoko, sa strana lagano spljošteno tijelo, pokriveno krupnim i čvrsto usađenim krljuštima. Leđna peraja je veoma duge osnove (između četrnaest i dvadeset žbica), a podrepna kratka (pet do osam žbica). Prva žbica i jednog i drugog peraja je snažna i nazubljena. Usta su terminalna i obrubljena kratkim brkovima (koji mogu biti i potpuno odsutni). Ždrijelni zubi su visoki, spljošteni i jednoredni.Karasi su prvobitno naseljavali vode Istočne Azije. Nastanjuju tihe i tople nizinske vode, najčešće stajaće. \n\nMogu se pronaći u biljem obraslim barama, jezercima, kanalima, u kojima traži muljevito i glinovito dno. Zlatni karas živi na dnu, na dubinama i do dvadeset metara, gdje se hrani sitnim životinjama i dijelovima biljaka. U divljini su mu na meniju manje ribe, ikra, punoglavci i žabe, ali nerijetko će iskočiti iz vode loveći insekte. Tokom ljeta se hrani intenzivnije, dok zimi potpuno prestaje sa uzimanjem hrane i prelazi u hibernaciju. Temperatura vode u njihovom staništu varira od 4 do 40 °C. Divlji karasi će visoke temperature preživjeti, ali im nisu omiljene zbog osiromašenja vode kisikom. Akvarijske ribe neće podnositi temperature više od 30 °C, maksimum koji mogu podnijeti je 25 °C. \n\nZahvaljujući svom, ponekad zapanjujućem rastu, ubrzo su dospijele u europske i američke vode kao neželjeni kućni ljubimci. Tu su se uspješno razmnožavale i križale sa domaćim vrstama, te ubrzo postale sastavni dio tamošnje faune. Spolni dimorfizam kod zlatnih riba nije pretjerano izražen. Mužjaci imaju sitne i skoro neprimjetne pjegice na škrgama, dok je odlika ženki veći i širi trbuh. Pri pravilnoj i raznovrsnoj ishrani, zlatne ribe se mrijeste po nekoliko puta godišnje. \n\nMrijeste se u grupama, najbolje dva do tri mužjaka na jednu ženku, kako bi sva ikra bila oplođena. Ženka će juriti i izbacivati ikru, koja se lijepi za vodeno bilje na dnu, a mužjaci prelaze preko nje izbacujući mliječ i oplođujući je. Mrijest traje otprilike tri do četiri sata. Odrasla, debela ženka u jednom mrijestu daje od 2000 do 3000 komada žutobjeličaste, ljepljive ikre. Roditelji su izraziti kanibali i proždirat će svoju ikru i mlađ. Jaja se izlegu za dva do tri dana, te se pojavljuju sićušne ličinke. Prva dva dana hrane se sadržajem svoje žumanjčane kesice, a trećeg dana počinju se hraniti rotatorijama. Već četvrtog dana mogu se hraniti Copepodima ("prašinom"), a kasnije i vodenim buhama. Mlađ počinje ličiti na odrasle ribe nakon sedam dana, ali će proći cijela godina prije nego dobiju zlatnu boju odrasle ribe.</string>
+    <string name="riba_kesega">Kosalj je izduženog, visokog i bočno jako spljoštenog tijela, kojeg šestinu zauzima glava s malim kosim ustima, po čemu se razlikuje od ostalih vrsta iz roda deverika (Abramis). Tijelo je prekriveno malim cikloidnim ljuskama, koje su kod ove vrste najmanje u rodu deverika (Abramis). Također se od drugih deverika razlikuje po relativno dugoj podrepnoj peraji s oko 35–44 mekih šipčica. Prsne peraje dosežu do trbušnih. Tijelo je izduženije nego kod deverike. Ima prljavo–bijelu boju tijela s narančastim vratom, po gornjem dijelu glave smeđkaste boje, leđa su tamno–zelena ili tamno–plava s metalnim sjajem, bokovi su svijetlo žućkasto–srebrne boje. Prsne i trbušne peraje su žućkaste, druge su malo tamnije, prljavo–bijele boje, obrubljene tamnijim rubom i posute sa tamnijim pjegama. \n\nKosalj raste prilično sporo, s tri do četiri godine samo 16 cm dužine. Odrasli primjerci starosti od osam do jedanaest godina, oko 25–35 cm dužine, izuzetno 45 cm i 300–800 grama težine, najviše 1500 grama. Ima životni vijek od oko 18 godina. Kosalj naseljava sporije vodotoke i akumulacijska jezera. U Europi ga nalazimo u donjem toku rijeka koje se ulijevaju u Baltičko more i istočni dio Sjevernog mora. Stanište se proteže u porječju Dunava, Dona, Volge i uralskih rijeka, na sjeveru naseljava rijeke koje utječu u jezero Maelar (Švedska) i neke rijeke u Finskoj. Uglavnom se hrani bentosom, planktonom te dijelovima biljaka, ličinkama kukaca, crvima i malim rakovima. Za razliku od drugih deverika rado jedu račiće roda Cyclops i Daphnia. \n\nHranu prihvaća samo po danu. Mrijesti se u gornjem toku rijeka, kamo se u trenutku mriješćenja premješta iz nižih, sporije tekućih dijelovi rijeka, od travnja do svibnja kada je temperatura vode oko 15°C. Obično od 15.000 do 25.000, a ponekad čak i do 100.000 jajašaca, nakon 12 dana dolazi do izvaljivanja ličinki.</string>
+    <string name="riba_plotica">Plotica je rasprostranjena po cijeloj Europi. Kod nas se može naći u svim rijekama dunavskog sliva, dok je u jadranskom slivu rjeđa. Voli brze tekuće, čiste vode bogate zelenim biljem, gdje živi u većim jatima. Jata su nerijetko pomješana sa jatima škobalja. Često se zadržava pri površini vode, mada se uglavnom peca na dnu, jer se tu i hrani. Izuzetak su kamene obale sa kojih pase alge. \n\nHrani se biljnom hranom, kukcima, ličinkama i crvićima. Po izgledu plotice, odmah ćemo shvatiti da pripada familiji šarana. Tijelo joj je izduženo, glava mala sa sitnijim očima. Peraja su joj crvenkasta, po leđima je plavozelena do tamnomaslinasta, a bokovi su joj srebrnkasti, a trbuh bijeli. Prosječni lovni primjerci su dugi 30 cm i teški 350 g, a kapitalnim ulovom se smatra onaj od 2 kg. Prosječna starost poltice je 15 godina. Mrijesti se u travnju i svibnju, a primjerci teži od 2kg su rijetki. \n\nPlotica se može loviti gotovo svuda, kako u brzim, tako i u sporim vodama. Najbolje je loviti je sa proljeća u travnju i u jeseni u studenom. Iako nema lovostaja za ploticu, treba imati na umu da se plotica mrijesti u travnju i da svaka tada ulovljena plotica znaći tisuće izgubljenih mladunaca. Na brzim vodama ploticu treba tražiti u dubljim dijelovima voda, ali samo tamo gdje ima algi kladofora kojima se plotice rado hrane.</string>
+    <string name="riba_smudj">Smuđ je riba iz porodice Percidae. Vitko tijelo mu je prekriveno malenim, veoma prijanjivim ljuskama koje smuđu na dodir daju hrapav izgled. Produljena glava završava oštrom gubicom. Široko rasječena usta posjeduju veoma razvijeno zubalo: 6 snažnih očnjaka služe ranjavanju i hvatanju plijena, ostali zubi, nešto slabiji i usmjereni prema unutra, imaju za cilj zadržavanje uhvaćenih ribica. Sjajne oči, osobite strukture mrežnice osiguravaju mu odličan vid čak i pri velikim dubinama i u nedostatku svjetlosti. Maleni razmak dijeli prvu bodljikavu leđnu peraju od druge, koju oblikuju samo mekane zrakaste bodlje. Škržni poklopčić nema drača. Dobro vidljiva bočna linija produljuje se do repne peraje debelih i tvrdih rubova što smuđu omogućava da se brzo kreće. Obojenost mu se mijenja u funkciji pojedinca i životne sredine. Općenito je leđni dio sivo-zelenkast, a postaje svjetliji po bokovima išaranim okomitim tamnim prugama koje pod trbuhom postaju bijelo-žutkaste. Za vrijeme parenja tijelo mužjaka postaje tamnije i tada ih zovemo Ugljenari. \n\nSmuđ osobito voli mirne i spore vode umjerene temperature. Međutim, zahvaljujući svojoj velikoj prilagodljivosti, s izuzetkom jezera i visinskih rijeka, sposoban je naseliti najraznovrsnije vrste voda. Glede staništa, on prvenstveno voli kamenita ili šljunkovita dna kao i nepravilne profile, napučene najraznovrsnijim preprekama. Pored velikih primjeraka koji su najčešće usamljeni i malo pokretni, smuđevi žive u jatu pojedinaca istog godišta i slične veličine i često se kreću, ovisno o godišnjim dobima i metereološkim uvjetima, Mjesecu, suncu, vjetru, itd. Smuđ više voli tamnije i oblačnije vrijeme i obojene vode nego žarko sunce i bistre vode, najčešće je aktivan u sumraku i noću. \n\nMlađ smuđa hrani se planktonom i beskralježnjacima, ličinkama, crvićima, kukcima. Odrastao smuđ uglavnom konzumira male ribe čija je veličina ograničena uskoćom njegovog jednjaka. Stareći, smuđ se sve više zanima za mrtve, bolesne ili ranjene ribe, jednom riječju poželjniji mu je plijen lak za hvatanje. Za prehranjivanje, smuđevi love u krdu. Njihova intervencija, poput operacije komandosa, zasniva se na iznenađenju, a sastoji se od okruženja plijena prije konačnog napada. Ofenziva ne traje najčešće duže od nekoliko sekundi, najviše par minuta. Kada mahnitost opadne, lovci se vraćaju natrag da progutaju mrtve. \n\nSmuđ se razmnožava između travnja i svibnja, kada temperatura vode dostigne 12°C. Mriještenje se odvija usred korijenja stabala blizu obala ili u dubokoj zoni šljunčanog dna. Mužjak tu priprema gnijezdo gdje ženka polaže od 150.000 do 200.000 jajašaca po kilogramu vlastite težine. Nakon što ih je oplodio, mužjak nadgleda snesena jaja tijekom cijele inkubacije koja traje desetak dana. Rast smuđa je relativno spor: s godinom dana ima 8 do 12 cm, s dvije godine dug je 20 do 30 cm, u trećoj godini ima 40 cm. Spolnu zrelost dostiže u drugoj godini za mužjake i sa 3 godine kod ženki.</string>
+    <string name="riba_bjelica">Bjelica je po izgledu slična kederu, pomnijim pregledom se uočavaju razlike. Bjelica je manja od kedera, bočna linija joj nije puna i prekida se od 12-13 ljuske iza glave. Peraje su joj bezbojne. Boja bjelice ovisi o osobini vode i dna. Sa svijetlijom vodom i belica je svijetlija, u jezerskim i drugim stajaćicama je tamnija. Leđa imaju zelenkastu ili žućkastu nijansu. Bokovi su srebrnasto bijeli sa prugicama jarko srebrnasto-plave boje. Ima izduženo tijelo pokriveno srebrnastim sitnim ljuskama koje lako otpadaju. Ima krupne, izražene lepezaste peraje. Naraste do 9 cm duljine. \n\nZa bjelicu je karakteristično da se drži površinskog sloja vode, često se može vidjeti kako u jatima na samoj površini skuplja hranu. Prosječno je duga 6-8 cm, maksimalno 12 i teži to 20 g. Živi u jezerima i kanalima, kao i u ravničarskim rijekama sa sporim vodotokom. U barama je rijetka zbog osjetljivosti na manjak kisika u vodi. Rasprostranjena je i u Srednjoj i Istočnoj Europi. Nema gospodarskog značenja, a rijetko se ciljano lovi osim kao mamac za grabljivice. Spolnu zrelost dostiže u drugoj godini života, pri dužini oko 4 cm. Mrijesti se ljeti, a ikru polaže na donju stranu listova, grana ili drugih predmeta koji plivaju na površini vode. Polaže veću količinu ikre, a smrtnost mlađi nakon mrijesta je velika uslijed prehrane brojnih vrsta riba.</string>
+    <string name="riba_gavcica">Rasprostranjena je širom Europe, osim Skandinavije. Živi u jatima, u donjim tokovima rijeka, jezerima, barama i kanalima, obično u mutnoj vodi. Tijelo joj je široko i bočno spljošteno. Leđa su joj sivo-zelena a bokovi srebrnasti. Mužjaci su uglavnom manji od ženki. Naraste 7-8 cm, rijetko više i spada u najmanje ciprinide. Živi do 5 godina, nekada i duže. Gavčice koriste riječne školjke za mrijest u koje polažu jajašca. Ženki za vrijeme mrijesta izrasta cjevčica iz analnog otvora pomoću koje polaže jaja direktno u školjku. Mrijesti se od travnja do srpnja. Polaže do 100 jaja iz kojih se nakon 15 do 20 dana izleže mlađ koja ne napušta odmah školjku. Mlađ se hrani zooplanktonom, a odrasle ribe mekušcima sa dna.</string>
+    <string name="riba_koljuska">Koljuška iz porodice koštunjača, podreda pločoglavki (Scleroparei). Prednja leđna peraja nije im cjelovita, već je nekoliko prednjih šipčica odijeljeno, pa izgledaju kao narijetko postavljene bodlje. Umjesto ljuščica nalazi se postrance niz većih pločica koje se spajaju u oklop. Žive u moru, bočatoj i slatkoj vodi, a raširene su po Europi, Aziji, Sjevernoj Americi i sjev. Africi. Najpoznatija je bodljikava koljuška ili bodonja (Gasterosteus aculeatus), koja živi u mirnim vodama manjih europskih rijeka, a zanimljiva je zbog njegovanja svojega legla. Mužjak gradi gnijezdo, koje slaže od vlati trave i biljnih korjenčića i prepleće ih bubrežnom izlučinom, koja se stvrdne u obliku niti. Gnijezdo je manje od ribe i ima dva otvora. U nj mužjak natjera redom više ženki i oplodi jajašca koja ženke ostavljaju u gnijezdu. Mužjak čuva mlade sve dok ne potroše svoje žumančane vrećice i ostave gnijezdo.</string>
+    <string name="riba_pior">Živi u vodama vodama dunavskog i jadranskog sliva. Nastanjuje bistre rijeke sa pješčanim i šljunkovitim dnom u velikim jatima, jezera siromašna hranjivim tvarima. Ako se voda jako ugrije jata se sele prema izvorima gde je voda hladnija. Pior naraste od 10 do 12cm, rijetko više. Čvrste je građe i okruglog tipa. Krljušti su sitne i na trbuhu ih nema. Glava i prsa su mu karmin crvena. Osnovna boja na leđima je tamnozelena ili prljavo siva na kojima se nalazi 15 tamnih poprečnih pruga, na bokovima tijela nalaze se mrlje nepravilnog oblika, često spojene u zlatnu uzdužnu prugu. Cijelo tijelo je posuto sitnim sivim pegama. Trbuh je svijetle boje; usni otvor je završni. \n\nU periodu mrijesta mužjaci dobivaju življe boje. Hrani se hranjivim tvarima koje padnu na vodu, larvama insekata i crvolikim beskičmenjacima. Piori se mrijeste od svibnja do srpnja, obično od polovine svibnja do polovine srpnja. Plodnost je mala, do tisuću jaja čiji razvoj traje 7 – 14 dana; spolno je zreo sa 2 – 3 godine, kad je dugačak 6 – 8cm. Jaja odlažu među kamenje, ljepljiva su i imaju u promjeru od 1 do 1,25mm. Hrane se biljnom i životinjskom hranom. \n\nPijor se lovi najfinijim priborom – najsitnijim udicama sa najmanjim glistama ili kuglicama kruha. Prije pecanja treba rasuti sitne mrve kruha kako bi se jato okupilo. Nije interesantna ekonomska riba. Kao keder pijor se može koristiti samo u hladnijim i kisikom bogatim vodama. Pijor je izuzetno osjetljiva riba i vrlo brzo ugiba na udici. Meso pijora je jestivo iako je blago gorko, ali je odličan mamac (mada osetljiv na dubinu vode). Koristi se u ribnjacima kao živa hrana. Jedu ga sve grabljivice iz vodotoka pastrva, manje mladice i vodene zmije.</string>
+    <string name="riba_pes">Naraste do 12 cm, tijelo mu je golo i valjkasto. Ima veliku i spljoštenu glavu sa tupom njuškom i širokim ustima. Tijelo mu je prekriveno sluzavom materijom, sive boje sa pjegama. Trbuh mu je sivo-bijele boje. Prsna peraja su mu velika i lepezasta, leđno je dvodjelno, od koga je prvi dio bodljikav. Trbušna peraja nikad ne dosežu do analnog otvora. Danju se krije pod kamenjem, a u lov izlazi noću. Udicu sa glistom često zagrize u večernjim satima. Mrijesti se u veljači, ožujku, travnju i svibnju, kada ženka odloži oko 100 komada jajašaca ikre, koja se lijepi na kamenje. Embriji se u jajnim opnama razvija 2-3 tjedna i za to vrijeme ih mužjak čuva. Jaja su velika, u promjeru imaju 2 do 2,5 mm. Kada se previše namnoži u pastrvskoj vodi, pobije ikru i mlađ. \n\nPeš traži pjeskovito ili šljunkovito dno, tj. ona mjesta na koja pastrva odlaže ikru. Lovi se lakim ribolovnim priborom, najlon debljine 0,10 - 0,16, udica br. 12-16, plovak nosivosti 0,5 - 1,5 gr. Mamci su glista i razni insekti. Nerjetko se mogu uloviti ljepši primerci na komadiće gliste. Koristi se kao (dobar) mamac za smudja a nerjetko ga i štuka stavlja na meni.</string>
+    <string name="riba_rijecna_babica">Jedina je od jadranskih babica koja živi u slatkoj vodi, a ponekad se uhvati na ušćima rijeka u more. Stanište su joj rijeke i jezera, gdje se hrani sitnim životinjicama, a živi u plićoj vodi. Razmnožava se od travnja do svibnja, a može narasti do 15 cm. Na velikom dijelu staništa se smatra ugroženom vrstom. Ova vrsta živi u rijekama Mediteranskog sliva i obližnjim jezerima; možemo je naći na području Albanije, Alžira, Crne Gore, Francuske, Grčke, Hrvatske, Italije, Izraela, Maroka, Španjolske i Turske.</string>
+    <string name="riba_krkusa">Krkuša ima produljeno, vretenasto tijelo. Snažna i spljoštena glava posjeduje široka usta s jednim brkom sa svake strane. Dva su velika oka postavljena visoko na glavi. Leđna je peraja kratka ali visoka, repna je jako nazubljena, analna se nalazi sasvim natrag, dok su prsne i trbušne peraje u obliku lepeze. Obojenost se krkuše mijenja ovisno o obitavalištu. Leđa su uglavnom plavo zelena, bokovi nešto svjetliji s plavim mrljama. Tamne pruge ukrašavaju leđnu i repnu peraju. \n\nKrkuša osobito voli čiste tekuće vode, ali je nalazimo i u većim ili manjim jezerima pod uvjetom da dno nije prekriveno vodenim biljem. Izgleda da izbjegava mulj i previše hladne ili pretople vode. Nalazimo je i u pastrvskim zonama. Krkuša inače kolonizira pješčana i šljunčana dna. Omiljena su joj mjesta uvijek bogata kisikom, a nalaze se na dodiru jačih struja i mirnih zona, na izlazu iz rupa gdje se vodeni protok ubrzava, nizvodno od vodenih konstrukcija. Krkuša neumorno rovi pijesak i šljunak u potrazi za malim ličinkama, kukcima, račićima, mekušcima i biljnim otpacima. Hrani se i jajašcima riba i drugim mikroorganizmima koje nalazi među zrnima pijeska i šljunka. \n\nKrkuša spolno odraste između druge i treće godine života. Razmnožava se od travnja do lipnja u plićim zonama. Ženka polaže jajašca u više navrata sa stankama od nekoliko dana, i to od 1.000 do 3.000 u paketima koji se priljubljuju za podlogu, biljke ili šljunak na dnu. Inkubacija traje od dva do četiri tjedna. Mlađ ostaje u blizini mrijestilišta i hrani se zooplanktonom.</string>
+    <string name="riba_potocna_mrena">Tijelo joj je valjkasto i izduženo, a od analnog otvora prema repu naglo se sužava. Boja joj je modrozelena ili tamno mrka sa brojnim tamnim mrljama na leđima koje dosežu do bočne linije. Površina tijela joj je ljigava. Rasprostranjena je u Europi: na granicama Francuske, Španjolske, na zapadu Rumunjske, Ukrajine i istočne Poljske. Mrena spada u bezopasne vrste koje kratko žive i to isključivo u čistim, brzim i hladnim vodama, iznad pijeska i mulja. Hrani se larvama i sitnim račićima, rijetko insektima. Postoji tvrdnja da se potočna mrena tokom jedne godine mrijesti u nekoliko navrata, što zavisi od životnih uvjeta vode. Sigurno je da na prvo "svadbeno putovanje", u gornje dijelove potoka, polazi u rano proljeće. \n\nPotočna mrena se lovi tokom cijele godine, ali najaktivnija je za vrijeme kiša i kada je voda zamućena (kasno proljeće i rano ljeto). Lovi se najviše u potočnim plićacima i na jakim brzacima sa šljunkovitim dnom, na kotrljajuće olovo ili na plovak koji treba opteretiti toliko da mamac "miluje" dno. Pribor za ribolov je fini sa najlonom debljine 0,10 - 0,18 i udicama 16 - 12. Mamci za potočnu mrenu su: larva vodenog moljca, crvena glista i sve vrste potočnih račića. \n\nMeso potočne mrene je vrlo ukusno i traženo. Po kvaliteti vrlo malo zaostaje za mesom pastrve.</string>
+    <string name="riba_paklara">Paklare svojim primitivnim izduženim oblikom tijela liče na jegulje. Razvojno gledano, to su vrlo primitivni predstavnici kralježnjaka. Već 500 milijuna godina taj živi fosil se gotovo nije promijenio. Danas su sve vrste paklara toliko rijetke, da su stavljene na "crvenu listu" akutno ugroženih životinja. Paklare žive pretežno u morskim obalnim vodama i slatkoj vodi. Najmanje za jednu vrstu (Geotria australis) pretpostavlja se da prelaze zamjetne razdaljine otvorenim morskim vodama. Razlog ovoj pretpostavci je da se ne mogu utvrditi naznake izoliranog razvoja između australske i novozelandske populacije. Paklare se mogu naći u svim područjima umjerenih klimatskih zona, osim Afrike. \n\nPaklare se mrijeste u gornjim tokovima potoka i rijeka. Za to im je potrebna šljunčana podloga i prohladna voda bogata kisikom (to je razlog zbog čega ih nema u tropskim područjima). Nakon izlaska iz jajašca, još slijepe larve koje imaju samo rudimentarne oči ukapaju se u pješčane dijelove vodotokova. Glava ostaje vani, i hrani se mikroorganizmima (plankton) iz vode. Paklare nemaju čeljusti, a okrugla usta s rožnatim zubima oblikovana su za prisisavanje. Imaju jednu nosnicu, dva oka i sedam škržnih otvora. \n\nNakon radikalne pretvorbe (metamorfoza) tjelesne građe od larve do odrasle životinje koja se događa uglavnom nakon 4-7 godina (što ovisi o vrsti), većina (morska paklara, riječna paklara) odlazi nizvodno do mora gdje živi parazitski do 18 mjeseci, obično blizu obale. "Domaćini" su im ribe na koje se prisišu, pijući im krv i stružući njihovo meso. Veće, zdrave ribe, uglavnom preživljavaju ovakve napade, zadržavajući nakon toga samo tipičan okrugli ožiljak. Manje ribe, mlade kao i bolesne ribe mogu od takvih napada i uginuti. Nakon nekog vremena, kad dosegnu spolnu zrelost, vraćaju se ponovo u riječne tokove radi mriještenja. Nakon mriještenja, životinje ugibaju. Potočne paklare ne odlaze u more. Ostaju živjeti u blizini mjesta gdje su provele svoj larveni dio života, u odraslom životnom razdoblju se ne hrane, i mrijeste se ponovo u istom području. Postoje i dvije endemske vrste potočnih paklara. Obje žive u slivu Dunava. To su dunavska potočna paklara (Eudontomyzon vladykovi) i kako im ime govori, u ukrajinskom dijelu sliva Dunava, ukrajinska potočna paklara (Eudontomyzon mariae).</string>
+    <string name="glavatica">Glavatica se odlikuje izduženim i valjkastim tijelom. Glava ove ribe je velika sa velikim ustima, u kojima se nalaze izrazito jaki zubi. Boja tijela je karakteristična, nema crnih ni crvenih pjega, ali je cijelo tijelo prošarano tamnim prugama koje su izuvijane, što joj daje mramorast izgled, pa otuda i njeno latinsko ime (marmoratus). Peraja su svijetlosiva do žućkasta. Jedna je od najkrupnijih salmonidnih riba. Može narasti do 140 cm i postići masu od 30 kg. Obično su takvi primjerci rijetki, a najčešće se vide jedinke od 4 do 8 kg. Živi do 25 godina. Kao i ostale pastrve, i glavatica naseljava brze, bistre, čiste i kisikom bogate vode. Uglavnom živi u dubljim virovima sa podvodnim stijenama, gdje traži skrovište. Glavatica naseljava relativno usko područje balkanske strane Jadranskog sliva te neke rijeke i jezera sjeverne Italije, dok je u ostalim dijelovima svijeta do danas naučnici nisu opisali. Glavatica se susreće u rijekama Po, Soči i njenim pritokama, rijekama Istre, Bosne i Hercegovine (Neretva, Una i Drina), Crne Gore (Zeti i Morači), a moguće i u Albaniji (u Bojani i Bijelom Drimu). \n\nMrijesti se od kasne jeseni i početka zime, od studenog do polovine siječnja, i to u rijekama na šljunkovitom dnu. Period mriješćenja nekada traje i po 2,5 mjeseca, zavisno od temperature vode. Na mriješćenje migrira uzvodno (anadromno). Spolnu zrelost postiže između pete i sedme godine života, kada ima dužinu od oko 70 cm. Temperatura vode na njenim prirodnim mrijestilištima iznosi 8-13 °C. Nekada, prije izgradnje brana i formiranja akumulacijskih jezera, glavatica je na svoja stalna mrijestilišta uz Neretvu migrirala čak do Glavatičeva (Kosorić, 1969). Izgradnjom brana presječeni su prirodni putevi mrijesnih migracija ove vrste i ona sada zalazi u pritoke između hidroakumulacija, ili se, pak, mriješćenje obavlja u preostalom dijelu toka između akumulacijskih jezera. Nedostatak ribljih staza za ovu vrstu ima jako štetan efekat. \n\nBrojnost njenih populacija opada iz godine u godinu. Posljednjih godina ova vrsta se umjetno mrijesti i uzgaja u ribnjacima, odakle se poribljava u tekućice, a u cilju održanja ili poboljšanja brojnosti njenih populacija. Vrlo je atraktivna vrsta za sportski ribolov. \n\nIzrazita je grabljivica, hrani se uglavnom larvama, insektima, puževima i drugim ribama što je u direktnoj vezi sa veličinom jedinki, dok manji komadi posegnu i za krupnijom mušicom.</string>
+    <string name="riba_pastrvajezerska">Jezerska pastrva ima vrlo sitne ljuske, koje čvrsto naliježu na tijelo pa ih je stoga teško uočiti. Prvi zrakovi u prsnim, trbušnim perajama, kao i u podrepnoj peraji su bijeli. Leđa su zelenkasto-crna, bokovi tijela srebrenkasti a trbuh je bijel. U periodu mrijesta, boja tijela se donekle mijenja. Na tijelu postoje rijetko raspoređene krupne rozikaste pjege u obliku slova x. Jedinke ove vrste mogu narasti do 100 cm, ali su obično manje od pola metra. Mogu dostići težinu do 20 kg, i starost do 15 godina.\n\nJezerska pastrva zapravo predstavlja potočnu pastrvu koja je metamorfozom u jezerskim uvjetima prešla u novu vrstu. Ona je tipični stanovnik hladnih i kisikom obogaćenih voda. Iako pretežno stanuje u jezerima, moguće je naći je i u rijekama. Zadržava se u blizini obale, uz ušća rijeka. Putujući rijekom uzvodno preskače prepreke. Spolno sazrevaju u starosti od 3 do 5 godina pri dužini od 50-60 cm. Mrijesti se na pjeskovitom i šljunkovitom dnu jezera, od listopada do siječnja. Uz obalu polaže 3.000 do 6.000 jaja. Razvoj embrija u jajnim opnama traje 65 do 72 dana. \n\nKao mala hrani se ličinkama insekata, crvima, a kad odraste postaje izraziti predator i nalazi se na vrhu lanca ishrane.</string>
+    <string name="riba_zlatovcica_jezerska">Jezerska zlatovčica ima vrlo sitne ljuske, koje čvrsto naliježu na tijelo pa ih je stoga teško i uočiti, a još teže skinuti. Prvi zrakovi u prsnim, trbušnim perajama, kao i u podrepnoj peraji su bijele boje. Leđa su zelenkasto-crne boje, bokovi tijela srebrenkasti a trbuh je bijel. U periodu mrijesta, boja tijela se donekle mijenja. Na tijelu postoje rijetko raspoređene krupne rozkaste pjege. Jedinke ove vrste mogu narasti i do 75 cm i doseći težinu do 10 kg, ali su obično manje od pola metra. \n\nOva vrsta živi u moru, a u periodu mrijesta migrira u slatke vode. Međutim, postoje i nemigracijske, slatkovodne forme ove ribe. Ona je tipični stanovnik hladnih i kisikom bogatih voda. Jezerska zlatovčica je veoma značajna i interesantna za sportski ribolov. Mlađ ove vrste se uzgaja i pušta u jezera i vodene akumulacije u kojima su povoljni uvjeti za njen život. Zlatovčica spolno sazrijeva u starosti od 3 do 5 godina. Mrijesti se na pjeskovitom i šljunkovitom dnu jezera, od listopada do siječnja. Prilazi uz obalu gdje polaže 3.000 do 6.000 jajašaca ikre, koja u promjeru imaju oko 5 mm. Razvoj embrija u jajnim opnama traje 65 do 72 dana. \n\nMlađ se u početku hrani planktonom, a ubrzo prelazi na insekte i sitnu ribu kao glavne dijelove ishrane.</string>
+    <string name="riba_zlatovcica_potocna">Leđa su joj maslinasta do tamnozelene prekrivena gustim žutim okruglim mrljama, bokovi su žutobijeli sa svjetlijim točkama, a trbuh je bijel ili crvenkast. U razdoblju mrijesta, trbuh je izrazito crven. Na leđima i repnoj peraji nalaze se tamne pjege, dok se na tijelu može naći manji broj crvenih pjega, koje mogu biti sa svjetlim obrubom ili bez njega. Zlatovčice se razlikuju od drugih pastrvki koje žive na području Balkanskog poluotoka. Dužina im je od 20 do 30 cm, iznimno mogu narasti do 50 cm i težiti oko 1 kg. \n\nPotočna zlatovčica je alohtona vrsta uvezena u Europu iz Sjeverne Amerike još u 19. stoljeću, pa je poznata i kao kanadska pastrva. Raširila je svoje stanište u hladne, kisikom bogate europske vode. Ova je vrsta nastanila vode u Hrvatskoj pokusnim puštanjem od strane ribolovaca ili bijegom iz uzgoja. Stanje tih populacija nije dobro istraženo, pronađene su samo u Plitvičkim jezerima i Neretvi. Jedinke u Neretvi najvjerojatnije dolaze iz BiH gdje se pojedine rijeke još poribljavaju ovom vrstom. Ova se vrsta hrani planktonima, puževima i školjkama, a veći se primjerci hrane ribama. Potočne zlatovčice se mrijeste od rujna do ožujka. Spolno su zrele između druge i treće godine, kad dosegne duljinu od 15-30 cm. Polaže jaja u brzim vodama na dno između kamenja.</string>
+
+    <string-array name="drustva_popis">
+
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            43500 DARUVAR, Šetalište I. Meštrovića bb - p.p. 37
+            \n\nODGOVORNA OSOBA: \n\tJožica Mudri, tel. 043/440-045, mob. 099/799-427 \n\tDražen Čepčar, mob. 098/453-781 \n\n\te-mail: srd.toplica@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 75,60
+            \nSTAJAĆE VODE (ha): 4,00
+            \n\nOVLAŠTENIK ZA: \ngrad Daruvar; općine: Sirač, Dežanovac, Đulovac i Končanica (osim vode Crnaja)
+        </item>
+        <item>
+            43280 GAREŠNICA, Vladimira Nazora bb
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Duković, tel. 043/531-250, mob. 098/464-907, fax 043/531-250 \n\tMladen Čačić, mob. 098/871-644 \n\n\te-mail: mladen.cacic@gmail.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUČE VODE (ha): 104,00
+            \nSTAJAČE VODE (ha): 34,50
+            \n\nOVLAŠTENIK ZA: grad Garešnica; općine: Berek, Hercegovac i Velika Trnovitica, osim IRZ jezero Podgarić
+        </item>
+        <item>
+            43290 GRUBIŠNO POLJE, Prilaz Rudolfa Roupeca bb
+            \n\nODGOVORNA OSOBA: \n\tZdeslav Bukač,	mob. 099/411-4034, mob. 099/691-1707
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 6,3
+            \nSTAJAĆE VODE (ha): 7,2
+            \n\nOVLAŠTENIK ZA: grad Grubišno Polje i općina Veliki Grđevac
+        </item>
+        <item>
+            43240 ČAZMA, M. Novačića bb
+            \n\nODGOVORNA OSOBA: \n\tSlavko Bejuk, mob. 098/1703-529 \n\tNenad Dianić, mob. 098/978-6038 \n\tIvan Kokot, mob. 091/547-7679 \n\n\te-mail: zajednica.sportsko.ribolovnih.drustava.cazma@bj.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 82,10
+            \nSTAJAĆE VODE (ha): 18,90
+            \n\nOVLAŠTENIK ZA: grad Čazma; općine: Štefanje i Ivanjska
+        </item>
+        <item>
+            43000 BJELOVAR, Matošev trg 1
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Cutvarić, tel. 043/647-150, fax. 043/647-188, mob. 098/377-177 \n\tDamir Husnjak, mob. 095 910-6091 \n\n\te-mail: zeljko.cutvaric@hrsume.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 60,90
+            \nSTAJAĆE VODE (ha): 37,30
+            \n\nOVLAŠTENIK ZA: grad Bjelovar; općine: Zrinski Topolovac, Rovišće, Kapela, Veliko Trojstvo, Šandrovac, Severin, Nova Rača i Velika Pisanica + IRZ 5 Jezero Dobrovita u općini Veliko Trojstvo
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nKONTAKT: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            35000 SLAVONSKI BROD, Frane Supila 2
+            \n\nODGOVORNA OSOBA: \n\tIvan Primorac, tel. 035/457-042, tel. 035/267-004, mob. 098/341-207 \n\tMarko Pajnić, mob. 097/641-5029 \n\n\te-mail: sportsko.ribolovni.savez@sb.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 1967,00
+            \nSTAJAĆE VODE (ha): 84,20
+            \n\nOVLAŠTENIK ZA: Brodsko-posavska županija
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            10000 ZAGREB, Remetinečka 60
+            \n\nODGOVORNA OSOBA: \n\tMladen Manojlov, mob. 099/708-7011, mob. 091/596-3785 \n\tZdravko Ivčević, tel. 01/365-1644, mob. 091/153-7508 \n\n\tinfo@srdpiskor-zg.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 100,20
+            \nSTAJAĆE VODE (ha): 76,10
+            \n\nOVLAŠTENIK ZA: Zagreb – Jug osim IRZ jezera Šikava (Blato), IRZ kanala Luž i IRZ Šoderice u Stupničkoj šumi I, II, III, IV (Demerje), te šoderice u Lučkom
+        </item>
+        <item>
+            10000 ZAGREB, Miševečka b.b. (ribički dom-Savica)
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Hukić, tel. 01662-5717, mob. 099/712-0327, mob. 091/744-7560 \n\tSailo Bjegojević, tel. 01/230-5129, mob. 099/695-1746 \n\n\te-mail: s.r.d.pescenica@zg.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 133,00
+            \nSTAJAĆE VODE (ha): 36,00
+            \n\nOVLAŠTENIK ZA: Zagreb - Istok i IRZ dijela rijeke Save u ribolovnoj zoni Zagreb - Sjever
+        </item>
+        <item>
+            10000 ZAGREB, Trg Krešimira Čosića 11; ŠRC Jarun, Avenija Matije Ljubeka bb
+            \n\nODGOVORNA OSOBA: \n\tJosip Čorak, tel. 01/365-0309, fax. 01/365-0361 \n\tBeti Kolar, tel. 01/3031-815 \n\tRobert Pavičić, tel. 01/3031-815, mob. 091/4040-261
+                \n\tMladen Anić, mob. 091/4040-277 \n\tDragan Kovačević, tel. 01/3031-862 \n\n\te-mail: jarun@jarun.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 75,00
+            \n\nOVLAŠTENIK ZA: IRZ jezero Jarun
+        </item>
+        <item>
+            10000 ZAGREB, Jankomir bb
+            \n\nODGOVORNA OSOBA: \n\tPero Jurišić, mob. 091/722-7875 \n\tIlija Zeba, mob. 095/5038-501 \n\n\te-mail: rsrd-spansko-susedgrad@zg.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 164,65
+            \nSTAJAĆE VODE (ha): 0,56
+            \n\nOVLAŠTENIK ZA: Zagreb – Zapad (osim IRZ jezero Jarun)
+        </item>
+        <item>
+            10000 ZAGREB, Mogilska 50
+            \n\nODGOVORNA OSOBA: \n\tRobert Janko, mob. 098/983-7839 \n\tAlojzije Bonić, mob. 098/9420-250, tel./fax 01/234-3721 \n\n\te-mail: alojzije.bonic1@zg.hinet.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 3,20
+            \nSTAJAĆE VODE (ha): 3,20
+            \n\nOVLAŠTENIK ZA: Zagreb - Sjever (osim IRZ jezera Granešina i dijela rijeke Save)
+        </item>
+        <item>
+            10360 SESVETE, Popovec, Komesova 3
+            \n\nODGOVORNA OSOBA: \n\tNikola Živoder, tel. 01/200-0964, mob. 098/452-730 \n\tStjepan Topolovec ---
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 5,00
+            \nSTAJAĆE VODE (ha): 5,00
+            \n\nOVLAŠTENIK ZA: Zagreb - Sesvete (osim IRZ jezero Novaki u Kraljevečkim Novakima i IRZ jezero Sopnica u Sesvetskoj Sopnici)
+        </item>
+        <item>
+            10000 ZAGREB, Fabijanićeva bb
+            \n\nODGOVORNA OSOBA: \n\tMirsad Ćustić, tel. 01/2932-020, fax. 01/285-1811, mob. 099/213-8780
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 0,50
+            \n\nOVLAŠTENIK ZA: IRZ Granešina u ribolovnoj zoni Zagreb – sjever
+        </item>
+        <item>
+            10360 SESVETE, Fruškogorska 16 B
+            \n\nODGOVORNA OSOBA: \n\tMladen Miklaužić, tel. 01/561-5869, mob. 091/580-0077 \n\tSaša Vukšić Sedmak, mob. 091/892-6677
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 2,50
+            \n\nOVLAŠTENIK ZA: IRZ jezero Novaki u Kraljevečkim Novakima unutar administrativnih granica Grada Zagreba
+        </item>
+        <item>
+            10000 ZAGREB, Karlovačka cesta 80k
+            \n\nODGOVORNA OSOBA: \n\tIvan Pandža, tel. 01/655-110, fax. 01/655-1102, mob. 098/279-269, Hvidra tel. 01/3757-878, \n\n\te-mail: ivanpandza1@zg.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 1,60
+            \n\nOVLAŠTENIK ZA: IRZ jezero Šikava (Blato) u ribolovnoj zoni Zagreb-Jug
+        </item>
+        <item>
+            10000 Zagreb, I Oranički odvojak bb
+            \n\nODGOVORNA OSOBA: \n\tMario Brundić, tel. 01/660-8773, mob. 091/502-3577 \n\tMario Dananić ---
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 5,10
+            \n\nOVLAŠTENIK ZA: IRZ Šoderica u Stupničkoj šumi I, II, III, IV - Demerje unutar administrativnih granica grada Zagreba
+        </item>
+        <item>
+            10257 BREZOVICA, Drežnik 2, Odvojak 18
+            \n\nODGOVORNA OSOBA: \n\tAnto Galić, tel. 01/653-8645, mob. 098/293-485 \n\tIlija Ljubić, mob. 095/868-8430, mob. 092/1165-0566 \n\n\te-mail: srdgrgec@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ kanal Luže unutar administrativnih granica Grada Zagreba
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            52000 PAZIN, Matka Brajše Rašana 3
+            \n\nODGOVORNA OSOBA: \n\tMassimo Russi, tel. 052/621834, mob. 098/431-398, mob. 095/8688-430 \n\tĐildo Drndić, tel. 052/621-834, mob. 095/868-8430, mob. 092/1165-056 \n\n\te-mail: pazincica.sportsko.ribolovno.drustvo@pu.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 20,34
+            \nSTAJAĆE VODE (ha): 22,57
+            \n\nOVLAŠTENIK ZA: gradovi: Pazin, Buzet i Labin; općine: Cerovlje, Gračišće, Pićan, Žminj, Sv. Petar u Šumi, Tinjan, Karojba, Motovun, Lupoglav, Lanišće, Oprtalj, Barban, Raša, Sv. Nedjelja i Kršan
+        </item>
+        <item>
+            52460 BUJE , G. Garibaldija 1
+            \n\nODGOVORNA OSOBA: \n\tMiroslav Radošević, tel. 052/617-118, mob. 095/902-6466 \n\tKristijan Stolnik, mob. 091/941-1749
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 43,65
+            \nSTAJAĆE VODE (ha): 5,45
+            \n\nOVLAŠTENIK ZA: gradovi: Buje, Novigrad i Poreč; općine: Vižinada, Grožnjan, Brtonigla, Kaštelir-Labinci, Višnjan, Vrsar i Sveti Lovreč
+        </item>
+        <item>
+            52420 BUZET, Trg J. Fabijančića 7A
+            \n\nODGOVORNA OSOBA: \n\tFerid Mačković, mob. 091/737-8529, mob. 095/904-6421 \n\tMladen Počekaj --- \n\n\te-mail: srd.mrena.buzet@hi.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 12,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Grad Buzet i općina Lanišće
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            47206 LASINJA, Trg hrvatskih branitelja b.b.
+            \n\nODGOVORNA OSOBA: \n\tMladen Potesak, tel. 047/884-139, mob. 098/176-9613 \n\tDamir Piljek, tel. 047/884-176, mob. 098/318-904 \n\n\te-mail: stuka-lasinja@net.hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 61,20
+            \nSTAJAĆE VODE (ha): 3,50
+            \n\nOVLAŠTENIK ZA: općina Lasinja
+        </item>
+        <item>
+            47240 SLUNJ,  Prilaz centrali bb
+            \n\nODGOVORNA OSOBA: \n\tBranko Petković, tel. 047/777-102, mob. 098/659-506, fax. 047/777-322 \n\tDarko Kovačević, tel. 047/777-109, mob. 091/575-1039 \n\n\te-mail: petkovic.braco@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 426,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Slunj i općina Cetingrad i Rakovica
+        </item>
+        <item>
+            47201 DRAGANIĆ - Mrzljaki 110 c
+            \n\nODGOVORNA OSOBA: \n\tMario Šikić, tel. 047/715-572, mob. 091/575-3430, mob. 095/197-7900 \n\tDavor Joha, mob. 098/313-569 \n\n\te-mail: srd.draganic@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 27,00
+            \nSTAJAĆE VODE (ha): 5,20
+            \n\nOVLAŠTENIK ZA: općina Draganić
+        </item>
+        <item>
+            47250 DUGA RESA, Sveti Petar bb p.p.39
+            \n\nODGOVORNA OSOBA: \n\tDario Bežan, mob. 098/938-6544, mob. 091/194-4031 \n\tAnđelko Grman, mob. 091/780-9880, mob. 098/245-080 \n\n\te-mail: ksr.mreznica@ka.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 437,00
+            \nSTAJAĆE VODE (ha): 2,50
+            \n\nOVLAŠTENIK ZA: grad Duga Resa; općine: Barilović, Generalski Stol, Bosiljevo i Netretić
+        </item>
+        <item>
+            47280 OZALJ, Trška cesta bb
+            \n\nODGOVORNA OSOBA: \n\tBranko Pečever, mob. 098/169-0495 \n\tIvan Stupić, mob. 099/542-4858 \n\n\te-mail: info@srd-ozalj-hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 145,10
+            \nSTAJAĆE VODE (ha): 21,10
+            \n\nOVLAŠTENIK ZA: grad Ozalj; općine: Ribnik i Žakanje i Kamanje
+        </item>
+        <item>
+            47300 OGULIN, Ulica Bernardina Frankopana 13
+            \n\nODGOVORNA OSOBA: \n\tZlatimir Kostelić, tel. 047/525-691, tel. 047/532-106, mob. 098/181-0908 \n\tKrunoslav Cindrić, tel. 047/531-980, mob. 091/587-5290 \n\n\te-mail: s.r.d-ogulin@ka.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 184,26
+            \nSTAJAĆE VODE (ha): 196,06
+            \n\nOVLAŠTENIK ZA: grad Ogulin (osim IRZ rječica Ribnjak), općine Saborsko, Plaški, Tounj i Josipdol
+        </item>
+        <item>
+            47000 KARLOVAC, Domobranska 25
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Capan, tel/fax. 047/617-122, mob. 098/206-674, mob. 095/617-1221 \n\tZdravko Kaurin, tel. 047/412-440, mob. 095/617-1225 \n\n\te-mail: ksr.korana1@ka.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 637,00
+            \nSTAJAĆE VODE (ha): 131,50
+            \n\nOVLAŠTENIK ZA: grad Karlovac; općine: Krnjak i Vojnić
+        </item>
+        <item>
+            10250 LUČKO, Hojnikova 43
+            \n\nODGOVORNA OSOBA: \n\tBiserko Tonković, tel. 01/6530-001, fax. 01/6530-000, mob. 091/6530-001
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ rječica Ribnjak (grad Ogulin)
+        </item>
+        <item>
+            47000 Ogulin, Vitunj  74a
+            \n\nODGOVORNA OSOBA: \n\tNenad Salopek, mob. 098/241-321
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Općina Plaški
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            48260 KRIŽEVCI, Trg A. Nemčića 10
+            \n\nODGOVORNA OSOBA: \n\tTvrtko Krešić, tel. 048/682-010, mob. 098/339-729, mob. 091/ 271-2733 \n\tJosip Crnčić, mob. 091/525-492
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 41,00
+            \nSTAJAĆE VODE (ha): 20,45
+            \n\nOVLAŠTENIK ZA: grad Križevci i općina Sv. Petar Orehovec
+        </item>
+        <item>
+            48350 ĐURĐEVAC, Eugena Kumičića 11
+            \n\nODGOVORNA OSOBA: \n\tIvica Vrabec, tel. 048/812-750, mob. 091/252-1721 \n\tIvan Sedmak, tel. 048/813-525, mob. 091/181-3528
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 928,50
+            \nSTAJAĆE VODE (ha): 49,39
+            \n\nOVLAŠTENIK ZA: grad Đurđevac (osim IRZ jezero „Hladna voda“); općine: Virje, Molve, Novo Virje (osim IRZ jezera Lučice), Ferdinandovac, Podravske Sesvete, Kloštar Podravski i Kalinovac (osim IRZ jezero Batinska)
+        </item>
+        <item>
+            48000 KOPRIVNICA, Matije Gupca 33
+            \n\nODGOVORNA OSOBA: \n\tIvica Sabolić, tel. 048/625-364, mob. 091/680-0600 \n\tMarijan Cikuš, mob. 091/ 680-0602, mob. 098/354-734 \n\n\te-mail: zsrk.koprivnica@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 492,01
+            \nSTAJAĆE VODE (ha): 338,87
+            \n\nOVLAŠTENIK ZA: grad Koprivnica; općine: Rasinja (osim jezera Rasinja), Legrad, Đelekovec, Drnje, Peteranec, Hlebine, Gola, Koprivnički Bregi i Sokolovac
+        </item>
+        <item>
+            48350 ĐURĐEVAC, Bana Jelačića 80
+            \n\nODGOVORNA OSOBA: \n\tŠumarija, tel. 048/289-130, fax. 048/289-141 \n\tGoran Švaco, mob. 098/452-426 \n\tMirko Kovačev, tel. 048/811-181, mob. 048/289-141
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 1,10
+            \n\nOVLAŠTENIK ZA: IRZ jezero "Hladna voda" (grad Đurđevac)
+        </item>
+        <item>
+            48361 KALINOVAC, Dravska 4
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Zvonar, tel. 048/883-303, mob. 091/537-1700 \n\tMiroslav Kovačić, tel. 048/883-290, mob. 099/802-2695 \n\n\te-mail: miroslav.kovačić1@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 1,40
+            \n\nOVLAŠTENIK ZA: IRZ jezero Batinska u granicama općine Kalinovac
+        </item>
+        <item>
+            48000 KOPRIVNICA, Rudešinkin brijeg 5
+            \n\nODGOVORNA OSOBA: \n\tZoran Ožegović, tel/fax. 048/634-570, mob. 098/982-2237 \n\tBoris Dvorski, mob. 098/214-297 \n\n\te-mail: zoran.ozegovic@demtrade.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezero Rasinja unutar granica općine Rasinja
+        </item>
+        <item>
+            48326 VIRJE, Gradišće 11
+            \n\nODGOVORNA OSOBA: \n\tPetar Vinković, tel/fax. 048/898-010, mob. 091/503-6620, mob. 091/585-7580 \n\n\te-mail: virovka@kc.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 1,20
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezero Lučice na k.č. 1376, 1377, 1378 i 1379 unutar adminisrativnih granica općine Novo Virje
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            49221 BEDEKOVČINA, Stjepana Radića 78
+            \n\nODGOVORNA OSOBA: \n\tAnđelko Pregiban, tel. 049/214-124, mob. 099/300-1460 \n\tZlatko Paučnik, mob. 099/300-1463, mob. 098/905-7811
+                \n\tLjerka Kahlina, mob. 099/300-1463 \n\n\te-mail: srs-kzz@kr.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 44,15
+            \nSTAJAĆE VODE (ha): 146,98
+            \n\nOVLAŠTENIK ZA: Krapinsko-zagorska županija, osim voda za koje je ovlaštenik ŠRD Sutla.
+        </item>
+        <item>49290 KLANJEC, Sutlanska 1
+            \n\nODGOVORNA OSOBA: \n\tGoran Milčić, mob. 098/904-8411 \n\tTihomir Kušanić, tel. 049/554-381, mob. 098/937-6070
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 10,00
+            \nSTAJAĆE VODE (ha): 53,40
+            \n\nOVLAŠTENIK ZA: Grad: Klanjec; općine: Zagorska Sela, Kumrovec, Tuhelj i Kraljevec na Sutli
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            53220 OTOČAC, Bartola Kašića 5a
+            \n\nODGOVORNA OSOBA: \n\tSlaven Prpić, mob 098/273435 \n\tMarina Legčević dir. tel. 053 771449, mob. 098/445494 \n\n\te-mail: komunalac@gs.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): 69,70
+            \nSTAJAĆE VODE (ha): 53,50
+            \n\nOVLAŠTENIK ZA: grad Otočac (osim IRZ potok Dabar).
+        </item>
+        <item>
+            53250 DONJI LAPAC, Nebljusi bb
+            \n\nODGOVORNA OSOBA: \n\tZora Majstorović, mob. 098/177-7727 \n\tDušan Đukić, mob. 098/9246220
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): 31,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: općina Donji Lapac
+        </item>
+        <item>
+            53000 GOSPIĆ, Ljudevita Gaja 10
+            \n\nODGOVORNA OSOBA: \n\tDane Kruljac, tel. 053/574-423, mob. 098/245-025 \n\tIvan Stilinović, mob. 098/245-306 \n\n\te-mail: sru-lika@gs.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): 1746,35
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Gospić i općina Perušić (osim IRZ bazeni staro glinište kod Perušića).
+        </item>
+        <item>
+            53202 PERUŠIĆ, Hrvatske mladeži 3
+            \n\nODGOVORNA OSOBA: \n\tPavao Murgić, tel. 053/679-524, mob. 098/168-6276 \n\tMile Jurišić, tel. 051/679-524, tel. 053/679-189
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 3,50
+            \n\nOVLAŠTENIK ZA: IRZ bazeni staro glinište kod Perušića u općini Perušić
+        </item>
+        <item>
+            53244 LOVINAC, Lovinačka 35
+            \n\nODGOVORNA OSOBA: \n\tMarko Sekulić, tel. 053/681-009, mob. 098/918-7960
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): 48,10
+            \nSTAJAĆE VODE (ha): 424,00
+            \n\nOVLAŠTENIK ZA: općina Lovinac
+        </item>
+        <item>
+            53222 DABAR, Dabar bb
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Bićanić, tel. 053/772-409, fax. 053/787-311, mob. 098/927-1817
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): 0,50
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ potok Jaruga u Gradu Otočcu
+        </item>
+        <item>
+            10000 ZAGREB, Sveti duh 135
+            \n\nODGOVORNA OSOBA: \n\tVišnja Reljić, tel. 01/3777-887, fax 01/4854-186 \n\tSmiljan Reljić, mob. 098/414-987 \n\tJosip, mob. 098/839-080 \n\n\te-mail: visnjareljic@hotmail.com
+            \n\nRIBOLOVNO PODRUČJE: Lika
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Matica i Krbavica (općina Plitvička jezera)
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            40321 MALA SUBOTICA, PALOVEC, Čakovečka 62
+            \n\nODGOVORNA OSOBA: \n\tLjubomir Žuljić, tel. 040/639-068, mob. 098/261-042 \n\tVelimir Medvedec, mob. 098/256-159
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 1,23
+            \n\nOVLAŠTENIK ZA: IRZ "Jezero" u općini Mala Subotica
+        </item>
+        <item>
+            40315 MURSKO SREDIŠĆE, Trg bana Josipa Jelačića 10
+            \n\nODGOVORNA OSOBA: \n\tStjepan Lisjak, tel. 040/543-455, mob. 099/454-3455 \n\tIvica Vugrinec, mob. 099/543-4550 \n\n\te-mail: admin@srdmura.info
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 7,50
+            \n\nOVLAŠTENIK ZA: IRZ: retencija Selnica – Gornji potok i ribnjak Rekreac, centra Zalešće (grad Mursko Središće)
+        </item>
+        <item>
+            40000 ČAKOVEC,  A. Schulteisssa 18
+            \n\nODGOVORNA OSOBA: \n\tZoran Pfeifer, tel. 040/395-091, mob. 098/241-884 \n\tDarko Oreški, tel. 040/313-592, mob. 098/761-840 \n\n\te-mail: ssrdmz@ck.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 1377,40
+            \nSTAJAĆE VODE (ha): 1761,55
+            \n\nOVLAŠTENIK ZA: Međimurska županija, osim: IRZ pod 1, 2., 4., IRZ retencija Jegerseg i IRZ retencije Križopolje u unutar općine Sv.Juraj na bregu, IRZ retencije Šenkovec u općini Šenkovec i IRZ retencija Balogovec unutar grada Čakovca
+        </item>
+        <item>
+            40329 KOTORIBA, Matije Gupca 66
+            \n\nODGOVORNA OSOBA: \n\tMladen Goričanec, tel/fax. 040/682-700, mob. 099/668-2700
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 5,35
+            \nSTAJAĆE VODE (ha): 8,74
+            \n\nOVLAŠTENIK ZA: IRZ: rib. vode Varjadov, Gorenjak, Osredek, Krka, Siladjev kut i Pod Nađerdovom u općini Kotoriba
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            31000 OSIJEK, Donjodravska obala 8
+            \n\nODGOVORNA OSOBA: \n\tJosip Dimnjašević, mob. 091/577-0252 \n\tBernard Opančar, tel. 031/504-455, fax. 031/530-592, mob. 095/901-1965 \n\n\te-mail: zsrd-osijek@os.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 2282,00
+            \nSTAJAĆE VODE (ha): 472,20
+            \n\nOVLAŠTENIK ZA: grad Osijek; općine: Antunovac, Čepin, Erdut, Ernestinovo, Šodolovci, Vladislavci i Vuka
+        </item>
+        <item>
+            31500 NAŠICE, Sokolska 51
+            \n\nODGOVORNA OSOBA: \n\tDalibor Stanić, mob. 091/198-1532 \n\tRobert Dudjak, mob. 09/167-8494
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 23,82
+            \nSTAJAĆE VODE (ha): 50,55
+            \n\nOVLAŠTENIK ZA: grad Našice
+        </item>
+        <item>
+            31540 DONJI MIHOLJAC,  Pavla Radića 16
+            \n\nODGOVORNA OSOBA: \n\tIvan Mitrović, tel. 031/631-860, mob. 099/211-1374 \n\tŽeljko Macanić, tel. 031/631-653, mob. 091/522-0401 \n\n\te-mail: zmacanic@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 387,00
+            \nSTAJAĆE VODE (ha): 124,25
+            \n\nOVLAŠTENIK ZA: grad Donji Miholjac; općine: Magadenovac, Viljevo, Podravska Moslavina, Marijanci i Đurđenovac
+        </item>
+        <item>
+            31550 VALPOVO, Matije Gupca 46c
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Čorba, tel. 031/516-517, mob. 091/583-4623 \n\n\te-mail: corba.zeljko@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 695,00
+            \nSTAJAĆE VODE (ha): 195,25
+            \n\nOVLAŠTENIK ZA: gradovi: Valpovo i Belišće; općine: Petrijevci i Bizovac
+        </item>
+        <item>
+            31400 ĐAKOVO, Kralja Domagoja 1
+            \n\nODGOVORNA OSOBA: \n\tTomislav Cvitković, tel. 031/821710, mob. 098/ 805-424 \n\tDinko Pavković, mob. 091/511-7017, mob. 092/254-850 \n\n\te-mail: zsru.dakovo@os.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 22,00
+            \nSTAJAĆE VODE (ha): 265,60
+            \n\nOVLAŠTENIK ZA: grad Đakovo; općine: Strizivojna, Levanjska Varoš, Satnica Đakovačka, Drenje, Semeljci i Viškovci
+        </item>
+        <item>31300 BELI MANASTIR, Sv. Martina 1-A
+            \n\nODGOVORNA OSOBA: \n\tAnđelko Martinčević, mob. 098/181-4739 \n\tŽeljko Mumlek, tel. 031/703-876, mob. 099/218-1528
+                \n\tMarina Škulac, tel/fax. 031/701-163 \n\n\te-mail: zajednica.srd.baranje@os.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 3438,40
+            \nSTAJAĆE VODE (ha): 671,50
+            \n\nOVLAŠTENIK ZA: grad Beli Manastir; općine: Petlovac, Čeminac, Kneževi Vinogradi, Draž, Popovac, Darda, Bilje i Jagodnjak
+        </item>
+        <item>
+            31328 Lug, Titov dvorac 1
+            \n\nODGOVORNA OSOBA: \n\tDamir Opačić, tel. 031/285-370, mob. 099/265-3826, fax. 031/285-380 \n\n\te-mail: uprava@pp-kopački
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA:  RZ parka prirode "Kopački rit"
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            34000 POŽEGA, Istarska 6/1
+            \n\nODGOVORNA OSOBA: \n\tĐuro Makarević, tel. 034/271-551, tel. 034/271-296, mob. 099/577-9344
+                \n\tBešlić Mile, tel. 034/241-023, tel. 034/312-460, mob. 098/362-102 \n\n\te-mail: mile.beslic@tekija.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 347,00
+            \nSTAJAĆE VODE (ha): 55,60
+            \n\nOVLAŠTENIK ZA: Požeško-slavonska županija
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            51306 ČABAR, Narodnog oslobođenja 2
+            \n\nODGOVORNA OSOBA: \n\tLeonard Vesel, tel. 051/821-106, tel. 051/821-271, mob. 091/262-5310 \n\tVera Malnar, fax. 051/821-299, 051/821-091 \n\n\te-mail: vera.malnar@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 9,40
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Čabar
+        </item>
+        <item>
+            51316 LOKVE, Šetalište golubinjak  6
+            \n\nODGOVORNA OSOBA: \n\tAlen Petelin, tel. 051/836-106, mob. 099/212-2940 \n\tMarija Horvat, tel/fax. 051/831-311, mob. 099/692-8703
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 2,44
+            \nSTAJAĆE VODE (ha): 210,00
+            \n\nOVLAŠTENIK ZA: općina Lokve
+        </item>
+        <item>
+            51301 BROD NA KUPI, Kralja Tomislava 18
+            \n\nODGOVORNA OSOBA: \n\tMladen Merkaš, mob. 099/388-4730, mob. 091/764-1241 \n\tBoris Hrašovec	tel. 01/335-5439, mob. 091/254-9892
+                \n\t Mislav Jukić, mob. 099/388-4730, mob. 091/162-9395 \n\n\te-mail: info@sru-goran.hr
+            \n\nRIBOLOVNO PODRUČJE: Kupa
+            \nTEKUĆE VODE (ha): 182,30
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Delnice; općine: Skrad i Moravice
+        </item>
+        <item>
+            51243 TRIBALJ, Tribalj bb
+            \n\nODGOVORNA OSOBA: \n\tIvica Brnjić, mob. 091 584-9204 \n\tRobert Grgić, tel/fax. 051/798-392 \n\n\te-mail: info@saran-tribalj.hr
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 41,00
+            \n\nOVLAŠTENIK ZA: IRZ jezero Tribalj u Novo Vinodolskoj općini
+        </item>
+        <item>
+            51000 RIJEKA, J. Polić Kamova 95/a
+            \n\nODGOVORNA OSOBA: \n\tBožidar Turk, tel. 051/436-656, mob. 091/507-1953 \n\tDane Maličević, mob. 091/507-1953
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 15,00
+            \nSTAJAĆE VODE (ha): 9,00
+            \n\nOVLAŠTENIK ZA: IRZ rijeka Rječina (grad Rijeka i općina Jelenje)
+        </item>
+        <item>
+            51322 FUŽINE, Kolodvorska 11
+            \n\nODGOVORNA OSOBA: \n\tZoran Đorđić, tel. 051/835-855, tel. 051/835-315, mob. 098/698-215 \n\tNevenka Hadžić, tel/fax. 051/835-484, mob. 091/894-8259 \n\n\te-mail: hadzic.nevenka@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 130,50
+            \n\nOVLAŠTENIK ZA: općina Fužine
+        </item>
+        <item>
+            51326 VRBOVSKO, 1. svibnja 12
+            \n\nODGOVORNA OSOBA: \n\t Goran Niković, tel. 051/875-422, mob. 098/633-740 \n\tJuraj Rauker, tel/fax. 051/875-101, mob. 091/487-5191 \n\n\te-mail: juraj.rauke@ri.t-com.hrsrd.kamacnik.com
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 178,60
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Vrbovsko
+        </item>
+        <item>
+            51137 Crni Lug, Bijela vodica 48
+            \n\nODGOVORNA OSOBA: \n\tMiljenko Gašparac, tel. 051/836-133 \n\n\te-mail: np-risnjak@ri.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Nacionalni park Risnjak
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            44317 POPOVAČA, Trg grofa Erdodyja bb
+            \n\nODGOVORNA OSOBA: \n\tIvan Tihomir Tušek, mob. 091/507-2744 \n\tIgor Iličić, tel. 044/679-336, tel. 044/569-246, mob. 091/505-5907 \n\n\te-mail: srd_som_popovaca@g_mail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 76,20
+            \nSTAJAĆE VODE (ha): 3,40
+            \n\nOVLAŠTENIK ZA: Općina Popovača (osim IRZ jezera Gaj)
+        </item>
+        <item>
+            44320 KUTINA, Željeznička 28
+            \n\nODGOVORNA OSOBA: \n\tSiniša Fijala, tel/fax. 044/699-370, tel. 044/640-360, mob. 091/516-2592 \n\tBranko Židek, tel. 044/631-114, mob. 095/522-0213, fax. 044/670-306
+                \n\n\te-mail: amur.kutina@sk.t-Com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 69,00
+            \nSTAJAĆE VODE (ha): 303,00
+            \n\nOVLAŠTENIK ZA: grad Kutina (osim IRZ jezera Bara i Jamarice) i IRZ dio jezera Pakra 2 u općini Lipovljani
+        </item>
+        <item>
+            44322 LIPOVLJANI, Ante Swtarčevića 49, p.p. 19
+            \n\nODGOVORNA OSOBA: \n\tJosip Hudec, tel. 044/676-087, mob. 098/137-0177 \n\tIvan Rohan, tel. 044/676-182, mob. 098/180-3569 \n\n\te-mail: srd.saran58@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 130,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Općina Lipovljani (osim dijela jezera Pakra 2)
+        </item>
+        <item>
+            44324 JASENOVAC, Trg K. Petra Svačića bb
+            \n\nODGOVORNA OSOBA: \n\tElvis Kalcina, tel. 044/600-503, mob. 091/785-8478 \n\tLuka Đilas, mob. 098/580-885 \n\tEduard Jambrišak, tel. 044/612-117, mob. 091/497-5087 \n\n\te-mail: jez@jez-jasenovac.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 907,56
+            \nSTAJAĆE VODE (ha): 31,73
+            \n\nOVLAŠTENIK ZA: Općina Jasenovac
+        </item>
+        <item>
+            44000 SISAK, Rimska 2
+            \n\nODGOVORNA OSOBA: \n\tĐuro Adamović, mob. 091/798-3480 \n\tLjiljana Minanov, fax. 044/524-941, tel. 044/523-582, mob. 091/221-9667
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 3931,50
+            \nSTAJAĆE VODE (ha): 599,50
+            \n\nOVLAŠTENIK ZA: Gradovi: Sisak, Glina i Hrvatska Kostajnica; općine: Gvozd , Topusko, Sunja, Martinska Ves, Lekenik, Dvor, Donji Kukuruzari, Majur i Hrvatska Dubica + Park prirode "Lonjsko polje"
+        </item>
+        <item>
+            44250 PETRINJA, Mihanovićeva 18
+            \n\nODGOVORNA OSOBA: \n\tDario Hrenar, tel. 044/814-439, mob. 099/820-9088, mob. 099/853-2325 \n\tVladimir Šuker, tel. 044/814-930, mob. 091/502-8507
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 446,40
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Petrinja (osim IRZ Nova Drenčina)
+        </item>
+        <item>
+            44330 NOVSKA, Bročice, Ribička 2
+            \n\nODGOVORNA OSOBA: \n\tBoris Horvat, mob. 099/444-1960, mob. 098/997-2265 \n\tDamir Koločaj, mob. 091/531-5353
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 76,30
+            \nSTAJAĆE VODE (ha): 9,00
+            \n\nOVLAŠTENIK ZA: grad Novska
+        </item>
+        <item>
+            44250 PETRINJA, Augusta Šenoe 10
+            \n\nODGOVORNA OSOBA: \n\tAntun Malović --- \n\tVladimir Demetrović, tel. 044/515-230, mob. 099/400-7539 \n\n\te-mail: demac@net.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ šljunčara Nova Drenčina unutar administrativnih granica grada Petrinje
+        </item>
+        <item>
+            44316 Velika Ludina, Mije Stuparića 40 (Vidrenjak)
+            \n\nODGOVORNA OSOBA: \n\tMarijan Haban, tel. 044/658-319, mob. 099/791-3426, mob. 098/185-3223 \n\tMarijo Plaščar, tel. 044/658-262, mob. 098/185-3323 \n\n\te-mail: sru.saran.ludina@@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Općina Velika Ludina (osim IRZ jezera Vila i jezera Bukovec)
+        </item>
+        <item>
+            10000 Zagreb, Dubravka Dujšina 17
+            \n\nODGOVORNA OSOBA: \n\tVladimir Labaš, mob. 098/745-806
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezero Vila i jezero Bukovec unutar administrativnih granica općine Velika Ludina
+        </item>
+        <item>
+            44317 POPOVAČA, Trg kraljice Hrvata bb
+            \n\nODGOVORNA OSOBA: \n\tMarijan Lončarević, tel. 044/642-726, mob. 099/672-7967, mob. 099/292-9700
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezera Gaj unutar granica grada Popovače
+        </item>
+        <item>
+            44321 BANOVA JARUGA - Stjepana Radića 47
+            \n\nODGOVORNA OSOBA: \n\tIvan Abramović, tel. 044/668-266, mob. 091/ 734-5870
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezera Bara i Jamarice unutar grada Kutine
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            21000  Split,  Brune Bušića 7 (Dujmović)
+            \n\nODGOVORNA OSOBA: \n\tTeo Dujmović, tel. 021/643-461, mob. 098/834-522 \n\tSnježana Dujmović, tel. 021/643-461, mob. 091/525-4725
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 5,50
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ rijeka Žrnovnica (unutar grada Splita)
+        </item>
+        <item>
+            21310 Omiš, Žarka Držojevića 1
+            \n\nODGOVORNA OSOBA: \n\tVicko Božić, tel. 021/863-389, mob. 098/432-315 \n\tAndrija Šarac, tel. 021/864-320, mob. 098/948-6300
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 100,50
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Omiš; općine: Šestanovac i Zadvarje
+        </item>
+        <item>
+            21000 Split, Brune Bušića 7(Dujmović)
+            \n\nODGOVORNA OSOBA: \n\tMiroslav Franjić, tel. 021/211-523, tel. 021/211-234, mob. 098/370-293-034 \n\tSlobodan Katić, tel. 021/376-914, mob. 091/336-8012
+            \n\nRIBOLOVNO PODRUČJE: -
+            \nTEKUĆE VODE (ha): 6,80
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Solin
+        </item>
+        <item>
+            21230 SINJ, Put Petrovca 2  (p.p. 63)
+            \n\nODGOVORNA OSOBA: \n\tAnte Poljak, tel. 021/822-715, mob. 098/419-521 \n\tFilip Ratković, mob. 098/537-651, mob. 091/201-3017
+                \n\tJosip Budinski, tel. 021/825-215, mob. 099/815-6268, mob. 091/572-5752
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 121,30
+            \nSTAJAĆE VODE (ha): 4,70
+            \n\nOVLAŠTENIK ZA: grad Sinj; općine: Trilj i Otok, te dio ribolovne zone općine Hrvace koji se odnosi na rijeku Cetinu nizvodno od brane Peruča, unutar granica općine Hrvace
+        </item>
+        <item>
+            21236 VRLIKA, Fra Filipa Grabovca bb
+            \n\nODGOVORNA OSOBA: \n\tIvan Vuletić, tel. 021/827-023, fax 021/827-222, mob. 098/162-2495 \n\tBožo Gverić, mob. 091/122-2426
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 30,00
+            \nSTAJAĆE VODE (ha): 1900,00
+            \n\nOVLAŠTENIK ZA: grad Vrlika; općine:  Civljane i Hrvace (osim dijela dodjeljenog ŠRD Cetina iz Sinja)
+        </item>
+        <item>
+            21264 DONJI  PROLOŽAC, Put bunara 27
+            \n\nODGOVORNA OSOBA: \n\tAnte Mikulić, tel. 021/846-145, mob. 091/502-6007, mob. 092/169-9080, fax. 021/841-118
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 10,00
+            \nSTAJAĆE VODE (ha): 410,50
+            \n\nOVLAŠTENIK ZA: Grad Imotski, općine Proložac, Podbablje, Zmijavci, Runović
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            22300 KNIN, Tuđmanova 4
+            \n\nODGOVORNA OSOBA: \n\tIvan Ćapin, tel. 022/663-569, fax. 022/348-402, mob. 091/785-3484 \n\tDarko Kosović, tel. 022/663-569, mob. 091/511-8327
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 37,40
+            \nSTAJAĆE VODE (ha): 24,40
+            \n\nOVLAŠTENIK ZA: grad Knin; općine: Biskupija i Ervenik
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            42214 SVETI ILIJA, Beletinec, Stjepana Radića 100
+            \n\nODGOVORNA OSOBA: \n\tDubravko Crkvenčić, tel. 042/301-080, tel. 042/749-080, mob. 098/396-654 \n\tSiniša Balaško, mob. 099/3139-370 \n\n\te-mail: keder.beletinec@vz.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 7,60
+            \nSTAJAĆE VODE (ha): 2,00
+            \n\nOVLAŠTENIK ZA: općina Sveti Ilija i IRZ: tri rukavca starog toka rijeke Bednje nizvodno od mosta Beletinec (grad N. Marof)
+        </item>
+        <item>
+            42000 VARAŽDIN, Međimurska 35a
+            \n\nODGOVORNA OSOBA: \n\tKristija Kosmačin, tel/fax. 042/214-477, mob. 098/966-0427 \n\tIvica Bonino Hasan, mob. 099/5360-433 \n\n\te-mail: srk-varazdin@hi.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 1002,00
+            \nSTAJAĆE VODE (ha): 1,00
+            \n\nOVLAŠTENIK ZA: grad Varaždin osim IRZ. jezera Motičnjak; općine: Petrijanec osim IRZ Huđekova graba, Sračinec, Vidovec (osim IRZ šljunčare Vidovec), Beretinec, Gornji Kneginec, Trnovec Bartolovečki (osim IRZ jezero Motičnjak)
+        </item>
+        <item>
+            42240 IVANEC, Ak. Mirka Maleza 82
+            \n\nODGOVORNA OSOBA: \n\tDraženko Jakopović, tel. 042/784-266, mob. 098/268-613 \n\tBranko Matijević, tel. 042/781-119, mob. 098/446-565 \n\n\te-mail: mat.branko@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 20,35
+            \nSTAJAĆE VODE (ha): 46,10
+            \n\nOVLAŠTENIK ZA: grad Ivanec; općine: Lepoglava, Klenovnik, Maruševec i Donja Voća
+        </item>
+        <item>
+            42220 NOVI MAROF, Ključ, Marofska 52
+            \n\nODGOVORNA OSOBA: \n\tSlavko Meister, tel/fax. 042/611-496, mob. 098/379-568
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 86,80
+            \nSTAJAĆE VODE (ha): 9,82
+            \n\nOVLAŠTENIK ZA: Gradovi Novi Marof i Varaždinske toplice, općine: Ljubeščica, Breznica, Breznički Hum i Visoko osim IRZ ŠRK Keder Beletinec
+        </item>
+        <item>
+            42000 VARAŽDIN; Kučan Marof, Zelena ulica 32
+            \n\nODGOVORNA OSOBA: \n\tEgon Kovačić, tel/fax. 042/201-089, mob. 097/7182-770
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 23,00
+            \n\nOVLAŠTENIK ZA: IRZ jezero Motičnjak-Aquacity (grad Varaždin)
+        </item>
+        <item>
+            42205 VIDOVEC, Trg Sv. Vida 8
+            \n\nODGOVORNA OSOBA: \n\tZdravko Klopotan, tel. 042/741-019, mob. 098/446-519, mob. 098/334-172 \n\tKrunoslav Kovačić, tel. 042/747614, mob. 099/213-3967 \n\n\te-mail: srd.vidovec94@net.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 4,50
+            \n\nOVLAŠTENIK ZA: IRZ šljunčara Vidovec u općini Vidovec
+        </item>
+        <item>
+            42230 LUDBREG, Ludbreški vinogradi 54
+            \n\nODGOVORNA OSOBA: \n\tĐuro Jančić, tel. 042/819-212, mob. 098/761-984 \n\tDražen Filipović, tel. 042/810-213, mob.  099/225-6268, mob. 098/441-319 \n\n\te-mail: srd-/ludbreg@srd-ludbreg.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 1269,95
+            \nSTAJAĆE VODE (ha): 30,30
+            \n\nOVLAŠTENIK ZA: grad Ludbreg; općine: Martijanec, Sv. Đurđ, Veliki Bukovec i Mali Bukovec  (osim IRZ ribnjak Mali Sredek)
+        </item>
+        <item>
+            42231 VELIKI BUKOVEC, Dravska 5
+            \n\nODGOVORNA OSOBA: \n\tZlatko Petrin, tel. 042/840-075, mob. 098/955-6738  \n\tZvonimir Petrin, mob. 098/1659-558 \n\n\te-mail: linjak@srsvz.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 2,80
+            \n\nOVLAŠTENIK ZA: Izdvojena zona ribnjak Mali Sredek
+        </item>
+        <item>
+            42253  BEDNJA, Trg Sv. Marije 26
+            \n\nODGOVORNA OSOBA: \n\tZlatko Koračević, općina tel. 042/796-309, tel. 042/796-128, mob. 098/9162-403 \n\tStjepan Županić, mob. 098/1870-439 \n\n\te-mail: marijan.hlevnjak@bednja.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: općina Bednja
+        </item>
+        <item>
+            42208 CESTICA, Veliki Lovrečan, Varaždinska 10 b
+            \n\nODGOVORNA OSOBA: \n\tMarijan Kolednjak, mob. 098/342-918 \n\tNikola Jamnik, mob. 099/234-6336 \n\n\te-mail: info@srk-cestica.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 225,50
+            \nSTAJAĆE VODE (ha): 2,00
+            \n\nOVLAŠTENIK ZA: općine Cestica
+        </item>
+        <item>
+            42207 VINICA, Marčan, Vinička 5
+            \n\nODGOVORNA OSOBA: \n\tAntun Emeršić, tel. 042/722-386, mob. 098/916-2403 \n\tZlatko Rožmarić, mob. 098/904-5947 \n\n\te-mail: ribolovni.klub.vinica@email.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 1,87
+            \n\nOVLAŠTENIK ZA: općina Vinica
+        </item>
+        <item>
+            42206 PETRIJANEC, Trg Svetog Petra 1
+            \n\nODGOVORNA OSOBA: \n\tPavao Kereži, tel. 042/714-121, mob. 098/190-5643 \n\tTomo Rušec, tel. 042/280-834, fax. 042/714-521, mob. 098/185-4233 \n\n\te-mail: tomo.rusec@vz.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ Huđekova Graba unutar ribolovne zone općine Petrijanec
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            33514 Čačinci, Lipovačka 69
+            \n\nODGOVORNA OSOBA: \n\tNikica Medarić, tel/fax. 033/684-274, mob. 098/986-5164 \n\tMurat Durmiši, tel. 033/646-251, mob. 091/894-5269 \n\n\te-mail: sofija.medaric@vt.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 340,00
+            \nSTAJAĆE VODE (ha): 38,01
+            \n\nOVLAŠTENIK ZA: grad Orahovica; općine: Čačinci, Zdenci, Crnac i Voćin
+        </item>
+        <item>
+            33000 VIROVITICA, Zvonimirov trg 6
+            \n\nODGOVORNA OSOBA: \n\tŽeljko Žeravica, tel. 033/772-998, mob. 099/672-2820 \n\tMarko Bičanić-tajnik, tel. 033/771-475, mob. 098/521-184 \n\n\te-mail: bicinicmarko5@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 343,30
+            \nSTAJAĆE VODE (ha): 158,00
+            \n\nOVLAŠTENIK ZA: grad Virovitica; općine: Lukač, Suhopolje, Gradina i Špišić Bukovica
+        </item>
+        <item>
+            33405 PITOMAČA, Ljudevita Gaja 26/1
+            \n\nODGOVORNA OSOBA: \n\tZdravko Kovač, tel. 048/816-052, mob. 098/390-131, mob. 095/73977-178 \n\tNikola Prtenjača, tel. 033/783-644, mob. 098/279-837 \n\n\te-mail: Nikola.prtenjaca@hotmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 312,00
+            \nSTAJAĆE VODE (ha): 9,09
+            \n\nOVLAŠTENIK ZA: općina Pitomača
+        </item>
+        <item>
+            33520 Slatina, Bakić, Bana Josipa Jelačića 56
+            \n\nODGOVORNA OSOBA: \n\tDamir Kireta, tel. 033/546-226, mob. 098/193-5013 \n\tMiroslav Marović, mob. 099/693-2056 \n\n\te-mail: bakic.sru.saran@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): 374,50
+            \nSTAJAĆE VODE (ha): 77,60
+            \n\nOVLAŠTENIK ZA: grad Slatina; općine: Voćin, Mikluš, Nova Bukovica, Sopje i Čađavica
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            32100 VINKOVCI, Duga ulica 64 (u dvorištu)
+            \n\nODGOVORNA OSOBA: \n\tIvan Japundžić, tel/fax. 032/331-316, mob. 098/287-147 \n\tZlatko Matin, mob. 091/505-6406 \n\n\te-mail: sportsko.ribolovni.savez@vu.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava + Drava-Dunav
+            \nTEKUĆE VODE (ha): 2159,50
+            \nSTAJAĆE VODE (ha): 7,50
+            \n\nOVLAŠTENIK ZA: Vukovarsko-srijemska županija: (osim voda ZŠRU Vukovar i IRZ jezera Bajer u Vinkovcima)
+        </item>
+        <item>
+            32000 VUKOVAR, Parobrodarska bb
+            \n\nODGOVORNA OSOBA: \n\tSaša Piljaš, tel/fax. 032/450-138, mob. 098/249-131, mob. 098/860-292 \n\tDarijan Pištelek, tel. 032/450-138, mob. 098/346-791 \n\n\te-mail: zajednica.sru.vukovar@vu.t-com
+            \n\nRIBOLOVNO PODRUČJE: Drava-Dunav
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: gradovi Vukovar i Ilok, te općine Borovo, Lovas, Trpinja, Bogdanovci, Tompojevci, Negoslavci i Tovarnik
+        </item>
+        <item>
+            32100 VINKOVCI, Kralja Tomislava 15
+            \n\nODGOVORNA OSOBA: \n\tIvan Šibonjić, mob. 091/370-2672 \n\tDario Herget, tel. 032/366-676, mob. 095/902-2814 \n\n\te-mail: bajervinkovci@net.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 13,48
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezero Bajer unutar administrativnih granica grada Vinkovaca
+        </item>
+        <item>
+            32272 Cerna, M. Martića 1
+            \n\nODGOVORNA OSOBA: \n\tMario Berač, tel/fax. 032/843-367, mob. 098/843-766
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ bajer Cerna u općini Cerna
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            23210 Biograd na moru, Kralja Petra Svačića 2
+            \n\nODGOVORNA OSOBA: \n\tDanijel Katičin, tel. 023/383-181 \n\n\te-mail: info@pp-vransko-jezero.hr
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: RZ Parka prirode "Vransko jezero"
+        </item>
+        <item>
+            23211 PAKOŠTANE, Kardinala Alojzija Stepinca 16
+            \n\nODGOVORNA OSOBA: \n\tIvan Knez, mob. 091/112-1070, mob. 098/570-538
+            \n\nRIBOLOVNO PODRUČJE: Jadran
+            \nTEKUĆE VODE (ha): 18,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Grad Biograd na moru, općine Pakoštane, Sveti Filip i Jakov
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>10000 ZAGREB, Kranjčevićeva 11 (u dvorištu)
+            \n\nODGOVORNA OSOBA: \n\tJosip Pavlović, tel. 01/3821-566, mob. 091/153-9788 \n\tZoran Grgić, mob. 099/270-5579
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 10,00
+            \n\nOVLAŠTENIK ZA: IRZ šljunčara Staro Čiče-Vukovina (grad Velika Gorica)
+        </item>
+        <item>
+            10434 STRMEC, Savska bb
+            \n\nODGOVORNA OSOBA: \n\tPetar Šikac, mob. 098/325-939 \n\tLazar Gruić, tel. 01/338-4553, tel. 01/337-2452, mob. 099/338-4553
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 39,00
+            \n\nOVLAŠTENIK ZA: IRZ jezero Orešje u općini Sveta Nedjelja
+        </item>
+        <item>
+            10450 JASTREBARSKO, Mladinska 12, p.p. 21
+            \n\nODGOVORNA OSOBA: \n\tNenad Viboh, tel. 01/628-1019, mob. 098/696-805 \n\tPetar Zlodi, mob. 098/696-860
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 196,79
+            \nSTAJAĆE VODE (ha): 20,78
+            \n\nOVLAŠTENIK ZA: grad Jastrebarsko; općine: Krašić, Žumberak, te IRZ jezero Novaki unutar administrativnih granica grada Jastrebarsko
+        </item>
+        <item>
+            10451 PISAROVINA, Trg Stjepana Radića 13
+            \n\nODGOVORNA OSOBA: \n\tĐuro Pongrac, tel. 01/629-1410, mob. 098/696-805 \n\tMirko Sobota, mob. 091/ 233-2253 \n\n\te-mail: sru.pisarovina@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: Općina Pisarovina i Klinča sela
+        </item>
+        <item>
+            10290 ZAPREŠIĆ, Ribički put 6  (p.p. 46)
+            \n\nODGOVORNA OSOBA: \n\tPetreković, mob. 095/904-2002, mob. 099/604-220 \n\tDragan Pavlović, mob. 098/982-7602, mob. 091/563-2717 \n\n\te-mail: saran@zg.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 64,50
+            \nSTAJAĆE VODE (ha): 50,60
+            \n\nOVLAŠTENIK ZA: grad Zaprešić; općine: Marija Gorica, Pušća, Dubravica, Jakovlje,  Luka i Bistra
+        </item>
+        <item>
+            10410 VELIKA GORICA, Trg Kralja Tomislava 4
+            \n\nODGOVORNA OSOBA: \n\tIvan Meštrović, tel. 01/6222-082, mob. 098/633-945 \n\tMarko Pancirov, tel. 01/623-8801, mob. 098/830-274 \n\n\te-mail: sportsko.ribolovna.udruga.odra@zg.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 379,90
+            \nSTAJAĆE VODE (ha): 175,00
+            \n\nOVLAŠTENIK ZA: grad Velika Gorica (osim IRZ šljunčara Staro Čiče-Vukovina); općine: Kravarsko i Orle
+        </item>
+        <item>
+            10431 SV. NEDJELJA, Kerestinec,Kerestinečka cesta bb
+            \n\nODGOVORNA OSOBA: \n\tDubravko Šeketa, tel/fax. 01/337-0897, mob. 098/773-709 \n\tBranko Dekanić, mob. 099/193-8326 \n\n\te-mail: somkerestinec@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 0,80
+            \n\nOVLAŠTENIK ZA: IRZ jezero Kerestinec u općini Sveta Nedjelja
+        </item>
+        <item>
+            10291 PRIGORJE BRDOVEČKO, Trg dr. Franje Tuđmana 1
+            \n\nODGOVORNA OSOBA: \n\tDrago Medjimorec, tel. 01/331-0350, mob. 098/237-885, mob. 095/882-9517 \n\tAnte Šimović, tel. 01/667-8734, mob. 091/459-3528
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 33,00
+            \nSTAJAĆE VODE (ha): 0,60
+            \n\nOVLAŠTENIK ZA: općina Brdovec
+        </item>
+        <item>
+            10434 STRMEC SAMOBORSKI, Nazorova 13
+            \n\nODGOVORNA OSOBA: \n\tAntun Lepen, tel. 01/377-4836, fax. 01/487-2863, mob. 098/206-030 \n\n\te-mail: info@stuka-strmec.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 24,47
+            \nSTAJAĆE VODE (ha): 21,08
+            \n\nOVLAŠTENIK ZA: općina Sveta Nedjelja (osim IRZ jezero Orešje, IRZ jezero Kerestinec i IRZ jezera Rakitje)
+        </item>
+        <item>
+            10340 VRBOVEC, Poljanski lug bb
+            \n\nODGOVORNA OSOBA: \n\tRoman Jelen, tel. 01/279-6229, fax. 01/279-6029, mob. 098/452-741 \n\tMarija Remenarič, mob. 098/900-8559
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 4,10
+            \nSTAJAĆE VODE (ha): 2,92
+            \n\nOVLAŠTENIK ZA: IRZ: kanal Lonja-Glogovnica i 13 bajera uz njega (grad Vrbovec)
+        </item>
+        <item>
+            10370 DUGO SELO, Gornja Greda, Zagrebačka 16
+            \n\nODGOVORNA OSOBA: \n\tPero Hajdarović, mob. 091/5551-176 \n\tRenato Škoro, mob. 098/982-7538
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 1,00
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ jezero Gračec u općini Brckovljani
+        </item>
+        <item>
+            10370 DUGO SELO, Rugvička bb
+            \n\nODGOVORNA OSOBA: \n\tBranko Deronja, tel/fax. 01/275-3274, mob. 091/557-6507 \n\tMladen Fuks, tel. 01/275-9622, mob. 091/506-3001 \n\n\te-mail: srd.dugos@gmail.com
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 302,00
+            \nSTAJAĆE VODE (ha): 65,70
+            \n\nOVLAŠTENIK ZA: grad Dugo Selo; općine: Rugvica i Brckovljani, (osim IRZ Gračec i IRZ Siromaja 1 i 2)
+        </item>
+        <item>
+            10414 POKUPSKO, Pokupsko bb
+            \n\nODGOVORNA OSOBA: \n\tTomislav Ladišić, tel. 01/626-4753, mob. 098/228-738, mob. 091/455-2314 \n\tBožidar Škrinjarić, tel. 01/626-6250, mob. 098/311-999
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 72,65
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: općina Pokupsko
+        </item>
+        <item>
+            10310 IVANIĆ GRAD, Ribnjaci bb
+            \n\nODGOVORNA OSOBA: \n\tVlado Barilić, tel. 01/282-9218, tel. 01 288-8014, mob. 091/578-0910 \n\tTomislav Presnec, tel. 01/288-8014, mob. 091/505-5391 \n\n\te-mail: robert@web.osn.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 100,00
+            \nSTAJAĆE VODE (ha): 35,00
+            \n\nOVLAŠTENIK ZA: grad Ivanić Grad i općina Kloštar Ivanić
+        </item>
+        <item>
+            10342 DUBRAVA, Donji Vukšinac bb
+            \n\nODGOVORNA OSOBA: \n\tMirko Hadaš, tel. 01/272-5575, mob. 098/911-2168, mob. 098/910-7723 \n\tZdravko Tumbas, tel. 01/279-1919, mob. 098/945-6955
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 2,80
+            \n\nOVLAŠTENIK ZA: općine: Dubrava i Farkaševac (osim jezera Farkaševac)
+        </item>
+        <item>
+            10315 NOVOSELEC, Vezišće bb
+            \n\nODGOVORNA OSOBA: \n\tDavor Sočan --- \n\tGoran Škvorc, tel. 01/289-7784, mob. 098/239-517 \n\n\te-mail: goran.skvorc@email.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 110,00
+            \nSTAJAĆE VODE (ha): 16,36
+            \n\nOVLAŠTENIK ZA: općina Križ
+        </item>
+        <item>
+            10430 SAMOBOR, Bobovica 11
+            \n\nODGOVORNA OSOBA: \n\tBožidar Horvat, tel/fax. 01/3324-453, mob. 098/276-846, mob. 091/988-0440 \n\tDarko Železnjak, mob. 091/507-8955
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 72,00
+            \nSTAJAĆE VODE (ha): 10,70
+            \n\nOVLAŠTENIK ZA: grad Samobor
+        </item>
+        <item>
+            10345 Gradec, Potočec, Potočec 34
+            \n\nODGOVORNA OSOBA: \n\tMario Kušić, mob. 091/507-4060 \n\tStjepan Poslon, tel. 01/279-1685, mob. 091/568-5886, mob. 091/932-9133 \n\n\te-mail: srucrnec@sru-crnec.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): 9,20
+            \nSTAJAĆE VODE (ha): 2,20
+            \n\nOVLAŠTENIK ZA: grad Vrbovec (osim IRZ bajer Vrbovec)
+        </item>
+        <item>
+            10437 BESTOVJE, Zagrebačka bb
+            \n\nODGOVORNA OSOBA: \n\tBožo Mihina, tel. 01/337-1326, mob. 098/617-556 \n\tZlatko Novačić, tel. 01/337-2888, mob. 091/337-1888, mob. 091/896-1895
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 202,00
+            \n\nOVLAŠTENIK ZA: IRZ jezera Rakitje u općini Sveta Nedjelja
+        </item>
+        <item>
+            10340 VRBOVEC, Zagrebačka bb
+            \n\nODGOVORNA OSOBA: \n\tDragutin Miklečić, tel. 01/279-5646, mob. 092/205-6000, mob. 098/972-1694 \n\tRenata Ivezić, tel. 01/279-3237, mob. 099/671-7377
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 5,60
+            \n\nOVLAŠTENIK ZA: IRZ bajer Vrbovec (grad Vrbovec)
+        </item>
+        <item>
+            10000 ZAGREB, Fabkovićeva 1/II
+            \n\nODGOVORNA OSOBA: \n\tStipo Vukoja, tel/fax. 01/233-1383, tel. 01/465-5211, tel. 01/2923-002, mob. 091/5259-076, kućni 01/2861-905 \n\n\te-mail: veteran91@hi.t-com.hr
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 23,00
+            \n\nOVLAŠTENIK ZA: IRZ jezera Siromaja I i Siromaja II u općini Rugvica
+        </item>
+        <item>
+            10343 NOVA KAPELA, Fuka bb
+            \n\nODGOVORNA OSOBA: \n\tMladen Horvatić, tel. 01/279-0167, mob. 099/794-8930 \n\tRenato Kramarić, tel. 01/279-2795, mob. 091/459-3544, mob. 098/176-5565
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 36,00
+            \n\nOVLAŠTENIK ZA: IRZ akumulacijsko jezero Fuka unutar administrativnih granica općine Gradec
+        </item>
+        <item>
+            10380 SV. IVAN ZELINA, Novo mjesto 24a
+            \n\nODGOVORNA OSOBA: \n\tDamir Banovec, mob. 091/525-6160, mob. 099/352-0090 \n\tIvan Požega, mob. 091/531-7908
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 8,00
+            \n\nOVLAŠTENIK ZA: IRZ ribnjak «Mokrica» (grad Sv. Ivan Zelina)
+        </item>
+        <item>
+            10255 GORNJI STUPNIK, Pavlovačka 20
+            \n\nODGOVORNA OSOBA: \n\tZdravko Preglej, tel. 01/6588-923, mob. 091/949-4275 \n\tLjiljana Žuti, mob. 091/577-8605
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): 8,00
+            \n\nOVLAŠTENIK ZA: Općina Stupnik
+        </item>
+        <item>
+            10251 Hrvatski Leskovac, Stara cesta 36/1
+            \n\nODGOVORNA OSOBA: \n\tLevati Ružić, mob. 098/917-6134
+            \n\nRIBOLOVNO PODRUČJE: Sava
+            \nTEKUĆE VODE (ha): -
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: IRZ šoderica u Lučkom (općina Stupnik)
+        </item>
+        <item>
+            \n\nODGOVORNA OSOBA: \n\t
+            \n\nRIBOLOVNO PODRUČJE:
+            \nTEKUĆE VODE (ha):
+            \nSTAJAĆE VODE (ha):
+            \n\nOVLAŠTENIK ZA:
+        </item>
+        <item>
+            10000 ZAGREB, Fabkovićeva 1/2
+            \n\nODGOVORNA OSOBA: \n\tStipo Vukoja, mob. 091/5259-076, tel. 01/2861-905
+            \n\nRIBOLOVNO PODRUČJE: Jadran, Sava
+            \nTEKUĆE VODE (ha): 24,32
+            \nSTAJAĆE VODE (ha): -
+            \n\nOVLAŠTENIK ZA: grad Nin i općina Gračac i Poličnik (Zadarska županija) + IRZ jezero Sopnica u Sesvetskoj Sopnici unutar granica Grada Zagreba
+        </item>
+
+    </string-array>
+
+    <string name="zakon_naslov">13 zakonskih obveza \nza športske ribiče</string>
+    <string name="zakon_header">Temeljni propisi:</string>
+    <string name="zakon_header_tekst">- Zakon o slatkovodnom ribarstvu (N.N. 106/01., 7/03., 174/04., 10/05.),\n
+                                        - Pravilnik o športskom ribolovu u slatkovodnom ribarstvu (N.N. 82/05., 139/06.),\n
+                                        - Naredba o zaštiti riba u slatkovodnom ribarstvu (N.N. 82/05., 139/06.).</string>
+    <string name="zakon_1">1. Ribiči smiju loviti ribe uz uporabu dopuštenih ribolovnih alata i/ili opreme i/ili mamaca.</string>
+    <string name="zakon_1s">Propisana sankcija: 1.500-6.000kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_2">2. Korištenje plovila kod obavljanja športskog ribolova na određenoj ribolovnoj vodi dopušteno je isključivo ukoliko je to određeno gospodarskom osnovom.</string>
+    <string name="zakon_2s">Propisana sankcija: 1.500-6.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_3">3. U ribolovu ribiči moraju uvijek kod sebe imati dozvolu za ribolovno područje ili ribolovnu zonu na kojima obavljaju ribolov. Ribič uvijek u ribolovu mora kod sebe imati dozvolu.</string>
+    <string name="zakon_3s">Propisana sankcija: 1.500-6.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_4">4. Ribe ulovljene u športskom ribolovu ne smiju se stavljati u promet.</string>
+    <string name="zakon_4s">Propisana sankcija: 1.500-6.000 kn</string>
+    <string name="zakon_5">5. Ribe ulovljene u športskom ribolovu koje se zadržavaju moraju biti neposredno nakon ulova, a najkasnije prije napuštanja mjesta ulova, označene odsijecanjem donjeg dijela repne peraje, osim trofejnih primjeraka riba.</string>
+    <string name="zakon_5s">Propisana sankcija: 1.500-6.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_6">6. Zabranjeno je ribičima na ribolovnim vodama loviti ribe suprotno gospodarskoj osnovi ili godišnjem planu.</string>
+    <string name="zakon_6s">Propisana sankcija: 1.500-6.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_7">7. Ribiči su dužni ribočuvarima omogućiti obavljanje ribočuvarskog nadzora i pružiti im sve potrebne podatake i obavijesti u svezi s obavljanjem ribočuvarskog nadzora, te im pružati pomoć u njihovom radu.</string>
+    <string name="zakon_7s">Propisana sankcija: 1.500-6.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_8">8. Zabranjeno je loviti u vrijeme lovostaja i loviti ispod minimalno propisane veličine.</string>
+    <string name="zakon_8s">Propisana sankcija: 5.000-15.000 kn i zaštitna mjera privremeno oduzimanje ulova, alata, opreme i mamaca.</string>
+    <string name="zakon_9">9. Zabranjeno je loviti ribu u ribolovnim vodama uz uporabu strane vrste ribe (žive ili mrtve) kao mamca. Strane ribe (alohtone), su vrste koje primarno ne obitavaju u određenoj ribolovnoj vodi.</string>
+    <string name="zakon_9s">Propisana sankcija: 1.500-6.000 kn</string>
+    <string name="zakon_10">10. Zabranjeno je loviti ribu s više ribolovnih alata ili opreme nego što je propisano propisom donesenim na temelju ovoga Zakona.</string>
+    <string name="zakon_10s">Propisana sankcija: 1.500-6.000 kn</string>
+    <string name="zakon_11">11. Zabranjeno je loviti ribe izravno rukom, povlačenjem i kvačenjem udicom s vanjske strane tijela ribe.</string>
+    <string name="zakon_11s">Propisana sankcija: 1.500-6.000 kn</string>
+    <string name="zakon_12">12. Zabranjeno je loviti ribe 100 metara uzvodno i nizvodno od ograde hidroenergetskog objekta.</string>
+    <string name="zakon_12s">Propisana sankcija: 1.500-6.000 kn</string>
+    <string name="zakon_13">13. Ovlašteniku ribolovnog prava ribiči su obvezatni na propisanom obrascu dostavljati podatke o količini i vrstama riba zadržanim u športskom ribolovu. -najkasnije do 31.siječnja tekuće god. za ulovljenu ribu u prethodnoj godini.</string>
+    <string name="zakon_13s">Propisana sankcija: 1.000-3.000 kn</string>
+    <string name="zakon_pripremio">Pripremio: Dr.sc. Josip Popović, viši ribarski inspektor</string>
+    
+    <string name="sistemi_obicnabalerina">OBIČNA BALERINA</string>
+    <string name="sistemi_usidrenabalerina">USIDRENA BALERINA</string>
+    <string name="sistemi_povrsinskisakliznimplovkom">POVRŠINSKI SISTEM SA KLIZNIM PLOVKOM</string>
+    <string name="sistemi_obrnutipovrsinski">OBRNUTI POVRŠINSKI SISTEM</string>
+    <string name="sistemi_dubinski">DUBINSKI SISTEM</string>
+    <string name="sistemi_potopljeniplovak">SISTEM SA POTOPLJENIM PLOVKOM</string>
+
+    <string name="sistemi_obicnabalerina_opis">Sistem “balerina” je najjednostavniji i jedan od najstarijih sistema za ribolov štuke. Iz ovog sistema su uz neke dodatne preinake proizašli svi ostali sistemi. Još davno su naši preci koristili “balerinu” za lov štuke, koriteći drvene štapove ili uopće nisu koristili štap, već su sistem bacali rukom (handraub). Umjesto najlona se koristila obična debela špaga, a umjesto sajle, obična kruta žica. Mana ovog sistema je što zbog slobodnog kretanja kedera dolazi do čestog petljanja, zavlačenja kedera u granje, pa je potrebno često izvlačiti sistem iz vode, te ga ponovo zabacivati. Zbog toga je ovaj sistem najbolje koristiti na vodama sa strmom obalom bez prepreka u vodi. Poželjno je koristiti plutajući najlon ili dodati nekoliko kuglica plutajućeg materijala (pluto, stiropor, drvo) iznad glavnog plovka. Ovaj sistem obožavam koristiti na mjestima gdje se grane drveća nadvijaju nad vodom. Cijeli sistem zabacimo prema sredini vode a osnovni najlon prebacimo preko samog vrha grane. Zatezanjem i otpuštanjem najlona određujemo radijus kretanja kedera. Grana treba biti tanka i savitljiva, kako bi se prilikom griza štuke i našeg kontriranja najlon lakše oslobodio bez oštećenja.</string>
+    <string name="sistemi_usidrenabalerina_opis">Ovo je najčešće korišten sistem za ribolov štuke živim mamcima. Za razliku od obične “balerine”, ovaj sistem je usidren olovom za dno. Keder ima ograničeno kretanje u radijusu koji određujemo sa dužinom predveza (sajle). Kao i u svim ostalim sistemima veličinu plovka odabiremo prema veličini kedera. Treba odabrati minimalno veliki plovak, koji keder svojim kretanjem neće moći potapati. Težinu sidra (olova), također odabiremo prema veličini kedera. Keder svojim kretanjem nesmije pomicati olovo sa mjesta. Poželjno je koristiti klizne polovke i stopere zbog lakšeg zabacivanja, osobito pri ribolovu na većim dubinama. Predvez između sajle i olova mora biti slabiji u odnosu na osnovni najlon. Kod zamaranja štuke olovo može zapinjati za podvodne prepreke pa je bolje da ostanemo samo bez olova, nego bez ribe. Kederu moramo omogućiti kružno kretanje bez petljanja i uvrtanja najlona. Sistem se može izvesti na mali milion načina, a svaki ribič ima neke svoje omiljene izvedbe. Mogu se koristiti T-virble, perle i stoperi, gotovi nepetljajući sistemi, krute žice, bužiri, plastične cijevčice itd. Korištenjem stopera i perli možemo osim radijusa, ograničiti i visinu kretanja kedera po osnovnom najlonu. Petljanje sistema možemo smanjiti korištenjem običnih udica umjesto trokuka, debljih i kručih sajli, većih plovaka i težih olova, dodavanjem krutih žica ili plastičnih cijevčica u sistem itd. Najčešće sistem nije potrebno daleko zabacivati jer se štuka najbolje lovi uz samu obalu. Treba pronaći strmu obalu, potopljeno granje, drveće i ostale razne prepreke u vodi koje štuke vole koristiti kao zaklon. Nakon zabacivanja treba laganim okretanjem ručke na roli, zategnuti cijeli sistem kako bi dodatno smanjili mogućnost petljanja. Ovim sistemom se postižu najboljni rezultati u jesen, kada je i najbolje vrijeme u godini za ulov kapitalnih štuka. Definitivno najbolje vrijeme je listopad i studeni, kada se štuke kreću uz obalu i pojačano hrane. U ovo vrijeme možemo slobodno koristiti poveće kedere, i do pola kilograma jer su štuke jako proždrljive i kada jednom napadnu mamac, ne odustaju dok ga ne progutaju. Treba uzeti u obzir da štuka može progutati ribu do jedne trećine svoje težine. Kada na plovku uočimo napad štuke, nesmijemo odmah kontrirati. Prilikom napada hvata plijen poprečno na tijelo, a zatim ga okreće i guta od glave prema repu. To namještanje i gutanje može potrajati, osobito kod korištenja većih kedera. Neki ribiči broje 20-30 sekundi od napada do kontriranja, ali ipak je pravilnije čekati i promatrati ponašanje plovka. Nesmijemo reagirati na titranje i prvo potapanje, već treba pričekati da plovak krene najčešće prema otvorenoj vodi.</string>
+    <string name="sistemi_povrsinskisakliznimplovkom_opis">Ovaj sistem je odličan za ribolov pri površini na većim daljinama. Osim za ribolov štuke, ovaj sistem se često koristi za lov soma u proljeće. Kao i sa ostalim površinskim sistemima najbolji rezultati se postižu u proljeće. Plovak mora biti klizni ali bez dodatnih antena i cijevčica koje bi se polomile pri opterećenju kod zabacivanja i zamaranja ribe. Predvez sa sajlom klizi iznad plovka ili se direktno kopča na plovak. Postoje specijalno izrađeni plovci sa bočnim kopčama koji su namjenjeni za ovakve i slične površinske sisteme. Iznad plovka i sajle nalazi se stoper kojim određujemo dubinu. Stoper treba postaviti uvijek na veću dubinu od dubine vode gdje lovimo. Najbolje je stoper postaviti za jednu trećinu više od dubine mjesta na kojem se lovi. Na kraju sistema nalazi se olovo iznad kojeg obavezno mora biti perla. Perla štiti čvor od oštećenja i spriječava zabijanje virble na olovu u plovak. Ovaj sistem je odličan za ribolov štuke u proljeće iznad pojaseva vodenih trava. U proljeće na zatravljenim vodama, vodeno raslinje još uvijek nije izraslo do površine vode. Olovo će pasti u travu a plovak će zadržavati predvez sa kederom točno iznad pojasa trave, gdje se obično kriju štuke. Za ribolov na većim daljinama treba koristiti veće i deblje udice sa većim kontrakukama. Nakon kvačenja kedera na udicu, dobro je još dodatno zakvačiti komad gume koji će služiti kao “osigurač”. Tako ćemo još dodatno spriječiti ispadanje kedera pri jačim izbačajima. Najveća mana ovog sistema je loše kontriranje. Do problema dolazi zbog velike udaljenosti predveza od olova, osobito pri ribolovu na dubljim mjestima.</string>
+    <string name="sistemi_obrnutipovrsinski_opis">Ovaj sistem se montira obrnuto od trećeg sistema, a podsjeća na montažu markera koji se najčešće koriste u šaranskom ribolovu. Osnovni najlon provlači se kroz virblu na olovu, zatim kroz perlu i plovak, a na kraju sistema vežemo sajlu. Prednost ovog sistema je što otpuštanjem najlona sa role možemo kederu omogučiti širi radijus kretanja. Također ima prednosti korištenja na tekućim vodama. Osnovni najlon se ne nalazi na površini, pa se znatno smanjuje otpor pri strujanju vode. Lagano strujanje vode će držati kedera dalje od osnovnog najlona, pa se tako znatno smanjuje petljanje sistema. Velika prednost ovog sistema na jezerima je mogućnost zabacivanja na velike daljine pomoću sistema sa dva štapa, o kojem ćemo detaljnije u nekoj drugoj temi. Na tekućim vodama keder se kvači za usta a ne ispod leđne peraje. Kvačenjem za usta keder se u riječnoj stuji postavlja u prirodan položaj. Tako će keder ostati puno dulje živ, jer smo mu omogučili pravilno strujanje vode kroz usta i škrge, odnosno disanje.</string>
+    <string name="sistemi_dubinski_opis">Ovo je identičan sistem kao “usidrena balerina”, ali u ovom slučaju ne koristimo plovak. Koristi se za ribolov na velikim dubinama i na rijekama. Najveća prednost ovog sistema je ribolov na tekućim vodama. Pošto se ne koristi plovak, omogućen je ribolov u jačim riječnim strujama. Na jezerima, možemo zabaciti samo olovo bez predveza, a predvez sa kederom kopčamo na osnovni najlon i puštamo da se kao žičara spušta do virble koja služi kao graničnik. Tako će keder biti pošteđen zabacivanja i pada na površinu vode. Biti će zdrav i u najboljoj formi. Da bi nam sistem “žičare” uspio treba koristiti teža olova i loviti na manjim daljinama. Obično su to dublji dijelovi jezera sa strmom obalom.</string>
+    <string name="sistemi_potopljeniplovak_opis">Sistem sa potopljenim plovkom najviše se koristi na rijekama i na većim jezerima, gdje se sistemi pomoću čamca razvlače na velike daljine. Keder nesmije imati kontakt sa dnom jer će se zavuči u travu ili će samo mirno ležati na dnu. Keder će pokušati bilo što koristiti kao zaklon, pa čak i samo dno, gdje će se umiriti i osjećati sigurno. Potopljeni plovak služi da odigne kedera od dna i tako privuče pažnju štuke. Keder će neumorno pokušavati plivati prema dnu, pa će tako i pomicati plovak. Pomicanje plovka može još dodatno privući pažnju štuke, i ostalih grabežljivaca, pa se mogu koristiti plovci upadljivih boja pa čak i sa ugrađenim zvečkama. Na velikm jezerima gdje se pomoću čamca sistemi razvlače na velike daljine, možemo koristiti šaranski pribor i električne indikatore griza. Na većim daljinama od 100 m, korištenje plovka kao indikator griza nije baš najbolji izbor. Probleme bi nam mogli stvarati kiša, magla, vjetar, valovi i sl.</string>
+    <string name="sistemi_autor">Autor: Ivan Nikšić</string>
+
+    <string name="vezovi_1_palomar">1. Palomar Knot</string>
+    <string name="vezovi_1_palomar_1">1. Poduplati najlon i provući kroz oko</string>
+    <string name="vezovi_1_palomar_2">2. Dobiveni kraj provući oko poduplanog najlona, kao pri vezanju pertle</string>
+    <string name="vezovi_1_palomar_3">3. Kroz ostatak (vrh) petlje provući udicu</string>
+    <string name="vezovi_1_palomar_4">4. Namočiti i stegnuti</string>
+    <string name="vezovi_1_palomar_5"></string>
+
+    <string name="vezovi_2_improvedclinch">2. Improved Clinch Knot</string>
+    <string name="vezovi_2_improvedclinch_1">1. Provući vrh kroz oko i namotavati ga oko glavnog najlona najmanje 5 puta</string>
+    <string name="vezovi_2_improvedclinch_2">2. Vrh provući kroz prvu rupu (kod oka) te kroz novu formiranu rupu na početku čvora i stegnuti</string>
+
+    <string name="vezovi_3_trileneknot">3. Trilene Knot</string>
+    <string name="vezovi_3_trileneknot_1">1. Provući vrh kroz oko, ostaviti malu petlju i provući još jednom te namotati oko glavnog najlona najmanje 5 puta</string>
+    <string name="vezovi_3_trileneknot_2">2. Vrh provući kroz rupu kod oka te zategnuti (po želji provući još jednom kroz novo formiranu rupu na početku čvora)</string>
+    
+    <string name="vezovi_4_unislip">4. Uni Slip Knot</string>
+    <string name="vezovi_4_unislip_1">1. Provući najlon kroz oko, držati prstima poduplani dio (na željenoj udaljenosti) te povući dovoljno najlona natrag prema oku</string>
+    <string name="vezovi_4_unislip_2">2. Ne puštajući prste, namotavati vrh najlona oko glavnog poduplanog dijela barem 5 puta </string>
+    <string name="vezovi_4_unislip_3">3. Povući vrh da bi stegnuli čvor, zatim navlažiti i povlačiti oba kraja najlona dok se čvor ne približi oku</string>
+    
+    <string name="vezovi_5_sandiego">5. San Diego Jam Knot</string>
+    <string name="vezovi_5_sandiego_1">1. Provući vrh najlona kroz oko, držati prstima poduplani dio (na željenoj udaljenosti) te namotavati vrh oko poduplanog najlona natrag prema oku barem 5 puta</string>
+    <string name="vezovi_5_sandiego_2">2. Provući vrh između poduplanog najlona kod oka, te opet provući vrh kroz novo formiranu rupu na početku čvora i zategnuti ga, zatim povlačiti oba kraja najlona dok se čvor ne približi oku</string>
+    
+    <string name="vezovi_6_snell">6. Snell Knot</string>
+    <string name="vezovi_6_snell_1">1. Držati udicu na način da je vrh udice okrenut prema gore, provući vrh najlona kroz oko udice (držati prstima najlon uz udicu) te povlačiti najlon natrag prema oku formirajući petlju</string>
+    <string name="vezovi_6_snell_2">2. Kroz napravljenu petlju najmanje 5 puta namotati vrh najlona oko glavnog dijela stežući ga uz udicu, te provući vrh kroz samu petlju i lagano povlačiti dok se ne formira čvor, zatim zategnuti oba kraja</string>
+    
+    <string name="vezovi_7_rapalaloop">7. Rapala Loop Knot</string>
+    <string name="vezovi_7_rapalaloop_1">1. Napraviti malu petlju te provući vrh kroz oko, vratiti vrh kroz petlju te namotati nekoliko puta iznad petlje i provući ga natrag kroz sredinu petlje</string>
+    <string name="vezovi_7_rapalaloop_2">2. Provući vrh natrag kroz novo formiranu petlju, namočiti i zategnuti</string>
+    
+    <string name="vezovi_8_eugene">8. Eugene Slip Knot</string>
+    <string name="vezovi_8_eugene_1">1. Provući vrh najlona kroz oko i poduplati ga vraćajući vrh natrag prema oku (ostaviti poduže najlona) te namotati poduplani dio oko glavnog dijela najlona</string>
+    <string name="vezovi_8_eugene_2">2. Ostavljeni vrh najlona (kod oka) provući kroz rupu na vrhu poduplanog dijela, namočiti i zategnuti</string>
+
+    <string name="vezovi_9_alberto">9. Alberto Knot</string>
+    <string name="vezovi_9_alberto_1">1. Poduplati fluorkarbon (petlja), provući vrh upredenice kroz petlju i namatati ju oko poduplanog fluorkarbona više puta</string>
+    <string name="vezovi_9_alberto_2">2. Namatati upredenicu još jednom (ovaj put prema natrag, preko poduplanog fluokarbona i same upredenice) te opet provući vrh upredenice kroz petlju i zategnuti</string>
+    
+    <string name="vezovi_10_twounijoin">10. Two-Uni Join Knot</string>
+    <string name="vezovi_10_twounijoin_1">1. Prisloniti upredenicu i fluorkarbon jedno uz drugo ostavljajući veću dužinu s obje strane, uzeti jedan kraj i napraviti Snell Knot (s upredenicom napraviti petlju i namatati oko fluorkarbona kao i oko udice, te provući vrh kroz samu petlju)</string>
+    <string name="vezovi_10_twounijoin_2">2. Uzeti drugi kraj i napraviti Snell Knot (ovaj put s fluorkarbonom napraviti istu stvar)</string>
+    <string name="vezovi_10_twounijoin_3">3. Zategnuti oba kraja</string>
+    
+    <string name="vezovi_11_yucatan">11. Yucatan Knot</string>
+    <string name="vezovi_11_yucatan_1">1. Poduplati upredenicu i namatati ju oko fluorkarbona više puta</string>
+    <string name="vezovi_11_yucatan_2">2. Vrh fluorkarbona provući kroz vrh poduplane upredenice, namočiti i zategnuti</string>
+    
+    <string name="vezovi_12_j">12. J-Knot</string>
+    <string name="vezovi_12_j_1">1. Napraviti petlju sa upredenicom i fluorkarbonom</string>
+    <string name="vezovi_12_j_2">2. Ponoviti još jednom (poduplati petlju)</string>
+    <string name="vezovi_12_j_3">3. Ponoviti još jednom i zategnuti</string>
+    
+    <string name="vezovi_13_doublelineuni">13. Double-Line Uni Knot</string>
+    <string name="vezovi_13_doubleuni_1">1. Poduplati najlon i provući ga kroz oko</string>
+    <string name="vezovi_13_doubleuni_2">2. Vrh poduplanog najlona vratiti prema oku formirajući petlju</string>
+    <string name="vezovi_13_doubleuni_3">3. Namotati poduplani najlon oko glavnog dijela unutar petlje</string>
+    <string name="vezovi_13_doubleuni_4">4. Namočiti i zategnuti</string>
+    
+    <string name="vezovi_14_doublesandiego">14. Double-Line San Diego Jam Knot</string>
+    <string name="vezovi_14_doublesandiego_1">1. Poduplati najlon, provući kroz oko, vrh poduplanog najlona vratiti prema oku formirajući petlju te namotati nekoliko puta</string>
+    <string name="vezovi_14_doublesandiego_2">2. Vrh poduplanog najlona provući između 2 poduplana najlona te opet provući kroz novo formiranu petlju na vrhu čvora, namočiti i zategnuti</string>
+
+    <string name="vezovi_15_arbor">15. Arbor Knot</string>
+    <string name="vezovi_15_arbor_1">1. Provući najlon oko špule, prebaciti vrh preko najlona i provući ga kroz rupu bliže špuli, te provući opet kroz novo formiranu rupu</string>
+    <string name="vezovi_15_arbor_2">2. Na vrhu najlona napraviti malu petlju</string>
+    <string name="vezovi_15_arbor_3">3. Zategnuti obje petlje</string>
+    <string name="vezovi_15_arbor_4">4. Povlačiti dok se obje petlje ne približe špuli</string>
+
+
+</resources>

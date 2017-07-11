@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="android.fkvestak.com.ribolovac">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.camera2" android:required="false"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ikona2dsfasdf"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        
+        <provider
+            android:authorities="${applicationId}.provider"
+            android:name="android.support.v4.content.FileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+        
+        <activity android:name=".MenuActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".Ribe.RibePagerActivity" android:parentActivityName=".Ribe.RibeListActivity" android:label="Slatkovodne ribe">
+
+        </activity>
+        <activity android:name=".Ribe.RibeListActivity" android:parentActivityName=".MenuActivity" android:label="Slatkovodne ribe">
+
+        </activity>
+        <activity android:name=".Lovostaj.LovostajActivity" android:parentActivityName=".MenuActivity" android:label="Lovostaj">
+
+        </activity>
+        <activity android:name=".Drustva.Drustva" android:parentActivityName=".MenuActivity" android:label="Ribolovna društva">
+
+        </activity>
+        <activity android:name=".Album.AlbumActivity">
+
+        </activity>
+        <activity android:name=".Album.AlbumListActivity" android:parentActivityName=".MenuActivity" android:label="Album">
+
+        </activity>
+        <activity android:name=".Album.AlbumPagerActivity" android:parentActivityName=".Album.AlbumListActivity">
+
+        </activity>
+        <activity android:name=".Vodostaj.VodostajActivity" android:parentActivityName=".MenuActivity" android:label="Vodostaj">
+
+        </activity>
+        <activity android:name=".Prognoza.VrijemeListActivity" android:parentActivityName=".MenuActivity" android:label="Temperatura zraka">
+
+        </activity>
+        <activity android:name=".Prognoza.VrijemeActivity" android:parentActivityName=".Prognoza.VrijemeListActivity" android:label="">
+
+        </activity>
+        <activity android:name=".Zakon.ZakonActivity" android:parentActivityName=".MenuActivity" android:label="Zakonske obveze">
+
+        </activity>
+        <activity android:name=".Sistemi.SistemActivity" android:parentActivityName=".MenuActivity" android:label="Sistemi za štuku">
+
+        </activity>
+        <activity android:name=".Vezovi.VezoviActivity" android:parentActivityName=".MenuActivity" android:label="Vezovi">
+
+        </activity>
+        <activity android:name=".Album.RibeLista" android:parentActivityName=".Album.AlbumActivity" android:label="Popis">
+
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:tools="http://schemas.android.com/tools"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="16dp"
+                  android:layout_marginRight="16dp">
+
+
+        <TextView
+            android:text="@string/vezovi_15_arbor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView25"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textStyle="normal|bold"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_arbor_1"
+            android:id="@+id/imageView44"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView61"
+            tools:text="@string/vezovi_15_arbor_1"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_arbor_2"
+            android:id="@+id/imageView45"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_15_arbor_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView62"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_arbor_3"
+            android:id="@+id/imageView46"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_15_arbor_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView63"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_arbor_4"
+            android:id="@+id/imageView47"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_15_arbor_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView64"
+            android:padding="5dp"/>
+    </LinearLayout>
+
+</ScrollView>

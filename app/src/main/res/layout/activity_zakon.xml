@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d1e8f7"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon_naslov"
+                android:textStyle="normal|bold"
+                android:textSize="20sp"
+                android:textAllCaps="true"
+                android:gravity="center"
+                android:paddingBottom="5dp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon_header"
+                android:textStyle="normal|bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon_header_tekst"
+                android:textSize="16sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="14dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon1"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon1s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon2"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon2s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon3"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon3s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon4"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon4s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon5"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon5s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon6"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon6s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon7"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon7s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon8"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon8s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon9"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon9s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon10"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon10s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon11"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon11s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon12"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon12s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon13"
+                android:textStyle="normal|bold"
+                android:paddingBottom="2dp"
+                android:paddingTop="5dp"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon13s"/>
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_zakon_footer"
+                android:textSize="12sp"
+                android:gravity="right"
+                android:paddingTop="10dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="#d1e8f7"
+              android:layout_marginTop="2dp"
+              android:padding="10dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        >
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_vrijeme_datum"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="left"
+            android:layout_marginLeft="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView6_vrijeme_dan"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:gravity="right"
+                android:includeFontPadding="false"
+                android:layout_marginRight="16dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8_vrijeme_noc"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:gravity="right"
+                android:includeFontPadding="false"
+                android:layout_marginRight="16dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/holo_blue_dark"
+        >
+
+        <TextView
+            android:text="RIBA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_naziv"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:text="VRIJEME"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_podrucje"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:text="VELIČINA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_vrijeme"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:gravity="center_horizontal"/>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+                                            android:id="@+id/lovostaj_recycler_view"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:background="@android:color/background_dark"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>

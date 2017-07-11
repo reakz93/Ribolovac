@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d1e8f7"
+    >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_menu"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="android.fkvestak.com.ribolovac.MenuActivity"
+        android:background="#d1e8f7">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_album"
+                    android:id="@+id/imageButton_album"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:cropToPadding="false"
+                    />
+
+                <TextView
+                    android:text="Album"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView78"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_temperatura"
+                    android:id="@+id/imageButton_vrijeme"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Temperatura"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView75"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_vodostaj"
+                    android:id="@+id/imageButton_vodostaj"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Vodostaj"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView76"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_nofish"
+                    android:id="@+id/imageButton_lovostaj"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Lovostaj"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView77"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_zakoni"
+                    android:id="@+id/imageButton_zakon"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Obveze i zakoni"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView70"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_drustva"
+                    android:id="@+id/imageButton_drustva"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Ribolovna društva"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView71"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_ribe2"
+                    android:id="@+id/imageButton_ribe"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:cropToPadding="false"
+                    />
+
+                <TextView
+                    android:text="Ribe"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView67"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_sistemi"
+                    android:id="@+id/imageButton_sistemi"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Sistemi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView68"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/icon_vezovi"
+                    android:id="@+id/imageButton_vezovi"
+                    android:layout_weight="1"
+                    android:background="@null"/>
+
+                <TextView
+                    android:text="Vezovi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView69"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+

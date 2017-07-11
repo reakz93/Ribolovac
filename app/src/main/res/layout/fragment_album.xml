@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/album_slika"
+                android:scaleType="centerInside"
+                android:background="@android:drawable/picture_frame"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/album_kamera"
+                android:src="@drawable/ic_album_kamera"
+                android:layout_marginLeft="16dp"
+                />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/riba_button"
+                android:id="@+id/imageButton_ribe_dodaj"
+                android:layout_marginLeft="16dp"
+                android:tint="@android:color/background_dark"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <TextView
+            android:text="Riba:"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView7"
+            android:layout_weight="3"
+            android:gravity="right|center_vertical"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_title"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:inputType="textCapSentences"
+            android:layout_marginLeft="16dp"
+            android:hint="(som, šaran...)"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <TextView
+            android:text="Mamac:"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView2"
+            android:layout_weight="3"
+            android:textStyle="normal|bold"
+            android:gravity="right|center_vertical"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_mamac"
+            android:hint="(kuruz, glista...)"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:inputType="textCapSentences"
+            android:layout_marginLeft="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <TextView
+            android:text="Lokacija:"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView4"
+            android:layout_weight="3"
+            android:gravity="right|center_vertical"
+            android:textStyle="normal|bold"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_lokacija"
+            android:hint="(Sava, Jasenovac)"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:inputType="textCapSentences"
+            android:layout_marginLeft="16dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <TextView
+            android:text="Datum:"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView5"
+            android:layout_weight="3"
+            android:gravity="right|center_vertical"
+            android:textStyle="normal|bold"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_date"
+            android:layout_weight="1"
+            android:hint="Izaberi datum"
+            android:layout_marginLeft="16dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="16dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberSigned"
+                android:id="@+id/album_velicina"
+                android:layout_weight="1"
+                android:gravity="center"/>
+
+            <TextView
+                android:text="cm"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView3"
+                android:layout_weight="2"
+                android:textStyle="normal|bold"
+                android:gravity="left|center_vertical"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="16dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:id="@+id/album_tezina"
+                android:gravity="center"
+                android:layout_weight="1"
+                />
+
+            <TextView
+                android:text="kg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/kg"
+                android:layout_weight="2"
+                android:textStyle="normal|bold"
+                android:gravity="left|center_vertical"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+

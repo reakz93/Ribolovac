@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto"
+                  xmlns:tools="http://schemas.android.com/tools"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="16dp"
+                  android:layout_marginRight="16dp">
+
+
+        <TextView
+            android:text="@string/vezovi_12_j"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView25"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textStyle="normal|bold"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_j_1"
+            android:id="@+id/imageView35"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_12_j_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView52"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_j_2"
+            android:id="@+id/imageView36"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_12_j_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView53"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/vez_j_3"
+            android:id="@+id/imageView37"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:text="@string/vezovi_12_j_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView54"
+            android:padding="5dp"/>
+    </LinearLayout>
+
+</ScrollView>
