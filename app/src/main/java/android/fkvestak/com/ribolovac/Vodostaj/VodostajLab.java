@@ -19,7 +19,6 @@ public class VodostajLab {
 
     private List<String> popis_postaja;
     private List<String> popis_vodotok;
-    private List<String> popis_datum;
     private List<String> popis_razina;
 
     public static VodostajLab get(Context context){
@@ -33,21 +32,18 @@ public class VodostajLab {
         mVodostaj = new ArrayList<>();
     }
 
-    public VodostajLab(List<String> l1, List<String> l2, List<String> l3, List<String> l4){
+    public VodostajLab(List<String> l1, List<String> l2, List<String> l4){
         mVodostaj = new ArrayList<>();
         popis_postaja = new ArrayList<>();
         popis_postaja = l1;
         popis_vodotok = new ArrayList<>();
         popis_vodotok = l2;
-        popis_datum = new ArrayList<>();
-        popis_datum = l3;
         popis_razina = new ArrayList<>();
         popis_razina = l4;
         for (int i=0; i<popis_postaja.size(); i++){
             Vodostaj vodostaj = new Vodostaj();
             vodostaj.setPostaja(popis_postaja.get(i));
             vodostaj.setVodotok(popis_vodotok.get(i));
-            vodostaj.setDatum(popis_datum.get(i));
             vodostaj.setRazina(popis_razina.get(i));
             if (!vodostaj.getPostaja().equals("Postaja")) {
                 mVodostaj.add(vodostaj);
